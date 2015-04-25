@@ -1,0 +1,10 @@
+# Site settings
+title: ""
+description: ""
+baseurl: ""
+url: ""
+name: ""
+
+# Build settings
+markdown: kramdown
+permalink: pretty
