@@ -4,6 +4,9 @@ title: cv
 
 ### Biografia
 
+first line
+second line
+
 Sopraano Milla Mäkinen opiskelee Sibelius-Akatemiassa laulumusiikin osastolla Sirkku Wahlroos-Kaitilan johdolla. Hän on valmis musiikin kandidaatti ja viimeistelee maisteriopintojaan pääaineenaan laulupedagogiikka. Mäkisen aikaisempia opettajia ovat olleet professori Monica Groop, Aulikki Eerola, Sirkka Parviainen-Hiekkapelto ja Anna-Clara Groundstroem.
 
 Mäkinen on tehnyt Paminan roolin Mozartin oopperassa Taikahuilu (Lahden Concis 2010 ja Metsolan Musiikki 2012), Giannettan roolin Donizettin oopperassa Lemmenjuoma (Lahden Ooppera ry 2006) sekä La Prêtressen roolin Rameaun oopperassa Anacréon. 
