@@ -6,7 +6,7 @@ title: soprano-concerts
 
 
 
-- [11.2.2015 klo.19: Musiikkitalo, Mannerheimintie 13 A, Sonore-sali, Laulumusiikin studion konsertti](http://www.musiikkitalo.fi/fi/node/1887)
+
 - [14.2.2015 klo.19: Heinolan rantapuisto, kansainvälinen jääfestivaali, Milla Mäkinen, sopraano ja Mirva Minkkinen, sähkökantele](http://ess.menoinfo.fi/heinola/tapahtumat/heinolan-iii-kansainvalinen-jaafestivaali/475091)
 - [28.2.2015 klo. 16: Café Barock, Allotria, Hämeentie 68, Milla Mäkinen, sopraano ja Kaisamaija Uljas, teorbi](http://www.cafebarock.com/events/)
 - 8.3.2015 klo.13: Cafe Carusel, Merisatamantie 10, Varhaisbarokin naissäveltäjiä
