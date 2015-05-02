@@ -1,8 +1,7 @@
 ---
-title: cv
+title: Biografia
 ---
 
-### Biografia
 
 Sopraano Milla Mäkinen opiskelee Sibelius-Akatemiassa laulumusiikin osastolla Sirkku Wahlroos-Kaitilan johdolla. Hän on valmis musiikin kandidaatti ja viimeistelee maisteriopintojaan pääaineenaan laulupedagogiikka. Mäkisen aikaisempia opettajia ovat olleet professori Monica Groop, Aulikki Eerola, Sirkka Parviainen-Hiekkapelto ja Anna-Clara Groundstroem.
 

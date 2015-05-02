@@ -1,0 +1,239 @@
+---
+---
+/*
+* Copyright 2015, Gustav Larsson
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+*/
+
+
+
+@import 'normalize'; 
+@import 'skeleton'; 
+
+
+$pink:     #F8E3D0; 
+$blackish: #292724; 
+$whitish:  #F7F6F3;
+
+//$bluelink_on_black: #3D7CBA;
+$bluelink_on_black: #A8B5C3; 
+$bluelink_on_black: #9199A1; 
+$bluelink_on_black: #AFB8C2; 
+
+$bluelink_on_white: #0C4781; 
+$bluelink_on_white: #8A95A1; 
+
+
+/* BASICS */
+.bold {
+  font-weight: 600;
+}
+.row{
+	/*min-height: 600px; */
+	margin-bottom: 0
+}
+h3 {
+	padding: 2rem 0 0 0; 
+}
+
+.menu a:hover,
+.designby a:hover {
+	color: #555;
+}
+
+.block {
+	/* reset me */
+	background: green; 
+	color: red; 
+}
+.brightblock {
+	@extend .block; 
+	background:   $whitish; 
+	color: $blackish; 
+	a {
+		color: $bluelink_on_white; }
+	a:hover { 
+	  color: #24486B;
+	}
+	box-shadow: inset 0 0 20px rgba(0,0,0, .75);
+}
+.darkblock {
+	background: $blackish;
+	color: $whitish; 
+	a {
+		color: $bluelink_on_black; }
+	a:hover { 
+	  color: #24486B;
+	  color: $pink; 
+	}
+}
+
+/* TITLE */
+
+.title h1 {
+	padding-top: 2rem; 
+	margin-bottom:0; 
+	text-align: center;
+	/* */
+	//font-family: 'Sacramento', cursive; 
+	//font-size: 12rem; 
+    font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 5rem; 
+	font-weight: 200; 
+}
+.title, 
+.menu, 
+.soprano {
+	background: $pink; 
+}
+.title a, .menu a {
+	color: #000; 
+	text-decoration: none; 
+}
+.menu h3 {
+	margin: 1rem 0 1rem 0; 
+	text-align: center; 
+	font-size: 2rem; 
+	padding: 0;
+}
+@media (min-width: 650px) {
+	.menu h3 {
+		margin: 2rem 0 2rem 0; 
+		text-align: center; 
+		font-size: 3rem; 
+	}
+}
+
+/* CV */
+
+.cv {
+	@extend .darkblock; 
+	//background: #574B3B; /* brown */
+	box-shadow: inset 0 0 20px rgba(0,0,0, .75);
+}
+
+
+@media (min-width: 650px) {
+	.cv-columns {
+		-webkit-column-count: 2; /* Chrome, Safari, Opera */
+		-moz-column-count: 2; /* Firefox */
+		column-count: 2;
+
+		/*
+		-moz-column-gap: 20px;
+		-webkit-column-gap : 20px;
+		*/
+	}
+}
+@media (min-width: 1025px) {
+	.cv-columns {
+		-webkit-column-count: 3; /* Chrome, Safari, Opera */
+		-moz-column-count: 3; /* Firefox */
+		column-count: 3;
+	}
+}
+
+
+
+
+
+
+
+
+.bossanova {
+	@extend .brightblock;
+
+	/*background: #BEBAA1; /* green */
+	/*background: #F5FBFF;  /* bright blue */
+	/*background: #FEF5FF;  /* bright purple */
+}
+.teaching {
+	@extend .darkblock; 
+	/*box-shadow-bottom: 0 0 20px rgba(255,0,0, .75);*/
+	box-shadow: 0 0 20px rgba(255,255,255, .75);
+}
+.contact {
+	@extend .brightblock;
+	//padding: 4rem 0 4rem 0; 
+	padding: 4rem 0 0 0; 
+	 a {
+		text-decoration:none;
+		color: $blackish; 
+	}
+	p { 
+		font-size: 2rem; 
+		text-align: center;
+		margin-bottom: 0;
+		margin-top: 0;
+	}
+	/* background: #001D2E;  /* dark blue */
+}
+
+@media (min-width: 650px) {
+	.title h1 { font-size: 10rem; }
+	.contact p {
+		font-size: 3rem; 
+	}
+}
+.designby {
+	margin: 1rem 0 1rem 0;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	height: 4rem;
+}
+.designby a {
+	margin-top: 2rem;
+	font-size: 1.2rem;
+	color: #ccc;
+	font-weight: bold;
+	line-height: 1.6rem;
+}
+
+.desktop {
+	display: none;
+}
+@media (min-width: 650px) {
+	.mobile {
+		display: none;
+	}
+	.desktop {
+		display: block;
+	}
+}
+
+
+.soprano img,
+.bossanova img {
+	width: 100%
+}
+.bossanova img {
+	margin: 2rem 0 2rem 0;
+}
+.soprano img,
+.teaching img{
+	vertical-align: bottom;
+}
+/* HACK to make image always stick to the bottom */
+#teaching img {
+	width: 60%;
+}
+@media (min-width: 650px) {
+	#teaching img {
+		//margin-top: 22rem;
+		width: 80%;
+	}
+}
+@media (min-width: 768px) {
+	#teaching img {
+		margin-top: 8rem;
+		width: 100%;
+	}
+}
+@media (min-width: 980px) {
+	#teaching img {
+		margin-top: 0;
+		width: 80%;
+	}
+}

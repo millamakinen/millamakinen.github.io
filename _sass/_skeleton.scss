@@ -5,7 +5,7 @@
 * Free to use under the MIT license.
 * http://www.opensource.org/licenses/mit-license.php
 * 12/11/2014
-*
+* 
 * Modified by Gustav Larsson 2015
 */
 
@@ -42,8 +42,7 @@
   width: 100%; 
   box-sizing: border-box; }
 .row { 
-  /*margin-bottom: 2rem; */
-  margin-bottom: 0rem; }
+  margin-bottom: 2rem; }
 .row .column:first-child,        
 .row .columns:first-child { 
   margin-left: 0; }
@@ -140,19 +139,9 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a { 
-  /*color: #1EAEDB; /* original blue*/
-
-  /*color: #927B8A; /* weak */
-  /*color: #926382; /* sat */
-  /*color: #B87CA3; /* brighter */
-  /*color: #F8E3D0; /* pink  */
-  /*color: #CFA27A; /* darker,sat pink */
-  color: #CF8E7A; /* pink, more reddish */
-}
+  color: #1EAEDB; }
 a:hover { 
-  /* color: #0FA0CE; /* original blue */
-  color: #B37A69; 
-}
+  color: #0FA0CE; }
 
 
 /* Buttons 
@@ -389,270 +378,16 @@ there.
 
 
 /* Larger than mobile */
-/*
 @media (min-width: 400px) {}
-*/
 
 /* Larger than phablet (also point when grid becomes active) */
-/*
 @media (min-width: 550px) {}
-*/
-
-/* igoyak Larger than nexus 4 landscape */
-/*
-@media (min-width: 650px) {}
-*/
 
 /* Larger than tablet */
-/*
 @media (min-width: 750px) {}
-*/
 
 /* Larger than desktop */
-/*
 @media (min-width: 1000px) {}
-*/
 
 /* Larger than Desktop HD */
-/*
 @media (min-width: 1200px) {}
-*/
-
-
-/* igoyak */
-
-@font-face { font-family: AqualineTwo; src: url('../AquilineTwo.ttf'); }
-
-.title h1 {
-	padding-top: 2rem; 
-	margin-bottom:0; 
-	text-align: center;
-	/*
-	font-family: 'Sacramento', cursive; 
-	font-size: 12rem; 
-	*/
-    font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 5rem; 
-	font-weight: 200; 
-}
-/*
-.section {
-	//height: 640px; 
-}
-*/
-.contact p { 
-	font-size: 2rem; 
-	text-align: center;
-	margin-bottom: 0;
-	margin-top: 0;
-}
-.contact a {
-	text-decoration:none;
-	color: white;
-}
-@media (min-width: 650px) {
-	.title h1 { font-size: 10rem; }
-	.contact p {
-		font-size: 3rem; 
-	}
-}
-/*
-p {
-	box-shadow: inset 0 0 20px rgba(255,0,0, .75), 0 0 0 0 #000, 0 0 0 0 #000, 0 0 0 0 #000;
-	box-shadow: inset 0 0 20px rgba(255,0,0, .75);
-	box-shadow: 0 9px 0px 0px #111, 0 -9px 0px 0px #111, 12px 0 15px -4px rgba(11,11,11, 0.8), -12px 0 15px -4px rgba(11,11,11, 0.8);
-	box-shadow: inset 0 0px 0px 0px #111, inset 0 -9px 0px 0px #111, inset 12px 0 15px -4px rgba(11,11,11, 0.8), inset -12px 0 15px -4px rgba(11,11,11, 0.8);
-}
-*/
-.title  {
-	/*
-	background: url('../images/shad.png') repeat-x bottom; 
-	border: 1px solid red; 
-	box-shadow: inset 0 0 20px rgba(0,0,0, .75);
-	box-shadow: inset 0 0 20px rgba(255,0,0, .75);
-	*/
-
-	/* background: #BEBAA1; /* green */
-	/* background: #D4D1CB; /* grey  */
-	/* background: #949395; /* dark  */
-
-	/* background: #F5FBFF;  /* bright blue */
-	/* background: #FEF5FF;  /* bright purple */
-
-	background: #F8E3D0; /* pink  */
-}
-.menu {
-	background: #333333;
-	color: white; 
-
-	background: #F8E3D0; /* pink  */
-
-	color: black; 
-
-}
-.title a, .menu a {
-	color: #000; 
-	text-decoration: none; 
-}
-.menu a:hover  {
-	color: #555;
-}
-.menu h3 {
-	margin: 2rem 0 2rem 0; 
-	text-align: center; 
-	font-size: 3rem; 
-}
-.soprano {
-	background: #F8E3D0; /* pink  */
-	/* TODO, maybe background instead of <img>? Or maybe not */
-	/*background: #F8E3D0 url('../images/IMG_8938_new.jpg') no-repeat bottom; */
-}
-.row{
-	/*min-height: 600px; */
-	margin-bottom: 0
-}
-.soprano img,
-.teaching img{
-	vertical-align: bottom;
-	/*
-	position: absolute; 
-	bottom: 0; 
-	left: 0; 
-	width:50%; 
-	*/
-}
-.cv {
-	background: #574B3B; /* brown */
-	background: #292724; 
-	color: white; 
-	box-shadow: inset 0 0 20px rgba(0,0,0, .75);
-}
-
-.desktop {
-	display: none;
-}
-/* Larger than phablet (also point when grid becomes active) */
-@media (min-width: 650px) {
-	.mobile {
-		display: none;
-	}
-	.desktop {
-		display: block;
-	}
-	.cv-columns {
-		-webkit-column-count: 3; /* Chrome, Safari, Opera */
-		-moz-column-count: 3; /* Firefox */
-		column-count: 3;
-
-		/*
-		-moz-column-count: 3;
-		-moz-column-gap: 20px;
-		-webkit-column-count: 3;
-		-webkit-column-gap : 20px;
-		-moz-column-rule-color:  #ccc;
-		-moz-column-rule-style:  dotted;
-		-moz-column-rule-width:  5px;
-		-webkit-column-rule-color:  #ccc;
-		-webkit-column-rule-style: solid ;
-		-webkit-column-rule-width:  5px;
-		 */
-	}
-}
-.bossanova {
-	box-shadow: inset 0 0 20px rgba(0,0,0, .75);
-
-	/*background: #F8E3D0; /* pink  */
-	/*background: #BEBAA1; /* green */
-
-	/*background: #F5FBFF;  /* bright blue */
-	/*background: #FEF5FF;  /* bright purple */
-	background:   #F7F6F3;  /* bright green */
-
-}
-.bossanova a {
-	color: #0C4781; 
-}
-.teaching a, .cv a {
-	color: #1269BF;
-	color: #3D7CBA;
-}
-.contact a {
-	color: black;
-}
-a:hover { 
-  color: #B37A69; 
-  color: green;
-  color: #24486B;
-}
-.teaching {
-	background: #574B3B; /* brown */
-	background: #292724;
-
-	color: #DAECF6; 
-	color: #F7F6F3;  /* bright green */
-	/*box-shadow-bottom: 0 0 20px rgba(255,0,0, .75);*/
-	box-shadow: 0 0 20px rgba(255,255,255, .75);
-}
-.contact {
-	//padding: 4rem 0 4rem 0; 
-	padding: 4rem 0 0 0; 
-	background: #333;
-	background: black;
-	box-shadow: inset 0 0 20px rgba(0,0,0, .75);
-
-	background: #F8E3D0; /* pink  */
-
-	
-	/*background: #001D2E;  /* dark blue */
-	color: white; 
-	background: #292724; 
-
-	background:   #F7F6F3;  /* bright green */
-}
-.designby {
-	margin: 1rem 0 1rem 0;
-	text-align: center;
-	margin: 0;
-	padding: 0;
-	//display: none;
-	height: 4rem;
-}
-.designby a {
-	padding-top: 2rem;
-	font-size: 1.2rem;
-	color: #ccc;
-	font-weight: bold;
-	//font-size: 0.2rem;
-	line-height: 1.6rem;
-}
-.designby a:hover {
-	color: #444;
-}
-/*
-.contact a {
-	color:gold; 
-	border: 1px solid grey;
-	width: 100px;
-	height: 100%; 
-}
-.contact:hover {
-	background: #000D1E;  
-	color: #fefefe; 
-}
-a:hover {
-	color: red; 
-	background: black; 
-}
-*/
-
-.cv .row {
-	padding: 3rem 0 3rem 0; 
-}
-.bossanova .row h3, .teaching .row h3 {
-	padding: 2rem 0 0 0; 
-}
-
-.bold {
-  font-weight: 600;
-}
-

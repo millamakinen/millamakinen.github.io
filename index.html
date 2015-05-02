@@ -14,6 +14,7 @@ title: index
 		<title>Milla Mäkinen - Sopraano</title>
 		<meta name="description" content="Sopraano - Bossa nova - Laulunopetusta">
 		<meta name="author" content="">
+		<meta name="keywords" content="laulu,laulun opetus,lauluopettaja,laulun opettaja,laulunopetusta,laulaja,barokki,varhaisbarokki,vanha musiikki,teorbi,luuttu,sopraano,soprano,bossa nova,bossanova,samba,choro,trubaduuri,kitara,klassinen laulu,laulutunteja,brasilialainen musiikki,esiintyjä,helsinki">
 
 		<!-- Mobile Specific Metas
 	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -52,8 +53,6 @@ title: index
 	</head>
 	<body>
 
-		<!-- Primary Page Layout
-	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
 		<!-- title -->
 		<div class="section title">
 			<div class="container">
@@ -84,7 +83,7 @@ title: index
 			<div class="container">
 				<div class="row">
 					<div class="two-thirds column"> 
-						<img src="images/soprano_pink_627.jpg" style="width: 100%" alt="Milla Mäkinen, sopraano">
+						<img src="images/soprano.jpg" alt="Milla Mäkinen, sopraano">
 					</div>
 					<div class="one-third column">
 					</div>
@@ -94,11 +93,15 @@ title: index
 		<!-- CV -->
 		<div class="section cv" id="cv">
 			<div class="container">
+				<h3>{{ sorted_pages[0].title }}</h3>
+				<br/>
 				<div class="row cv-columns">
 
 						{{ sorted_pages[0].content }}
 
 				</div>
+				<br/>
+				<br/>
 				<div class="row bold">
 						{{ sorted_pages[1].content }}
 						<br/>
@@ -118,7 +121,7 @@ title: index
 						<br/>
 					</div>
 					<div class="one-half column">
-						<img src="images/bossanova_461.jpg"  style="width: 100%; margin: 2rem 0 2rem 0;" alt="Milla Mäkinen, bossanova">
+						<img src="images/bossanova.jpg"   alt="Milla Mäkinen, bossanova">
 					</div>
 				</div>
 			</div>
@@ -126,15 +129,15 @@ title: index
 		<!-- teaching -->
 		<div class="section teaching" id="teaching">
 			<div class="container">
-				<div class="row">
+				<div class="row" >
 					<div class="one-half column desktop">
-						<img src="images/teacher_filter3_369.jpg" style="width: 80%; margin-bottom: 0rem" alt="Milla Mäkinen, laulunopetusta">
+						<img src="images/teacher.jpg" alt="Milla Mäkinen, laulunopetusta">
 					</div>
 					<div class="one-half column">
 						{{ site.pages[4].content }}
 					</div>
 					<div class="one-half column mobile">
-						<img src="images/teacher_filter3_369.jpg" style="width: 80%; margin-bottom: 0rem" alt="Milla Mäkinen, laulunopetusta">
+						<img src="images/teacher.jpg" alt="Milla Mäkinen, laulunopetusta">
 					</div>
 				</div>
 			</div>
@@ -147,18 +150,11 @@ title: index
 					<a href="mailto:milloin@gmail.com">milloin@gmail.com</a>
 					</p>
 					<div class="designby">
-					<a href="#">Design by Gustav Larsson</a>
+					<a >Design by Gustav Larsson</a>
 					</div>
 				</div>
 			</div>
 		</div>
-
-
-		<div class="section">
-		</div>
-
-		<!-- End Document
-	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
 	</body>
 </html>
 

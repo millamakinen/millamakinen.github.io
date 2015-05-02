@@ -1,5 +1,5 @@
 ---
-title: bossanova
+title: Bossa nova
 ---
 
 ### Bossa nova
