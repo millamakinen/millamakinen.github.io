@@ -13,6 +13,6 @@ title: soprano-concerts
 - 17.3.2015 klo.18: Lähetyskirkko, Tähtitorninkatu 18, "Matkan varrelta" - barokkimusiikkikonsertti
 - [18.3.2015 klo. 19: Musiikkitalo, Mannerheimintie 13 A, Camerata-sali, Laulumusiikin studion konsertti](https://www.facebook.com/events/820231668046296/)
 - 13.5.2015 klo.13: Metropolia, Ruoholahdentori 6, konservatorion konserttisali, Puolen päivän Barokki
-- 3.6.2015 klo.18: Metropolia, Ruoholahdentori 6, konservatorion konserttisali, Monteverdin L´Orfeo -ooppera (roolit Ninfa ja Proserpina)
-- 5.6.2015 klo.18: Metropolia, Ruoholahdentori 6, konservatorion konserttisali, Monteverdin L´Orfeo -ooppera (roolit Ninfa ja Proserpina)
+- [3.6.2015 klo.18: Metropolia, Ruoholahdentori 6, konservatorion konserttisali, Monteverdin L´Orfeo -ooppera (roolit Ninfa ja Proserpina)](https://www.facebook.com/events/1605124226398962/)
+- [5.6.2015 klo.18: Metropolia, Ruoholahdentori 6, konservatorion konserttisali, Monteverdin L´Orfeo -ooppera (roolit Ninfa ja Proserpina)](https://www.facebook.com/events/1605124226398962/)
 - Tulossa ensi vuonna: [Start-up Opera](http://startupopera.blogspot.fi/)
