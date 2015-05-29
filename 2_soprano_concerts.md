@@ -15,4 +15,7 @@ title: soprano-concerts
 - 13.5.2015 klo.13: Metropolia, Ruoholahdentori 6, konservatorion konserttisali, Puolen päivän Barokki
 - [3.6.2015 klo.18: Metropolia, Ruoholahdentori 6, konservatorion konserttisali, Monteverdin L´Orfeo -ooppera (roolit Ninfa ja Proserpina)](https://www.facebook.com/events/1605124226398962/)
 - [5.6.2015 klo.18: Metropolia, Ruoholahdentori 6, konservatorion konserttisali, Monteverdin L´Orfeo -ooppera (roolit Ninfa ja Proserpina)](https://www.facebook.com/events/1605124226398962/)
+- 10.6.2015 klo. 18: Tainionkosken kirkko, Imatra, Suomalaisia Säveliä, sopraano Milla Mäkinen ja pianisti Jenna Ristilä
+- 11.6.2015 klo. 18: Taidelukion sali, Savonlinna, Suomalaisia Säveliä, sopraano Milla Mäkinen ja pianisti Jenna Ristilä
+- [23.-25.10.2015: Helsingin Konservatorio, Helsinki Lied -kilpailu, lied-duo Milla Mäkinen ja Jenni Ljung](http://www.konservatorio.fi/fi/helsinki_lied_-kilpailu)
 - Tulossa ensi vuonna: [Start-up Opera](http://startupopera.blogspot.fi/)
