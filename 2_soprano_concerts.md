@@ -25,6 +25,6 @@ title: soprano-concerts
 - [29.10.2015 klo. 19: CLF Art Cafe, 133 Rye Lane SE15 4 ST London, Miika Hyytiäisen Hear here- showcase, Milla Mäkinen, sopraano, Kaisamaija Uljas, Renessanssiluuttu](https://www.facebook.com/events/883305005086483/)
 - [1.11.2015 klo. 13.15: Kätevä & Tekevä -kädentaitomessut, Lahden Suurhalli, Nenäkästä oopperaa, Milla Mäkinen, sopraano ja Mirva Minkkinen, sähkökantele](https://www.facebook.com/events/881338191919381/)
 - 3.11.2015 klo. 19: Camerata-sali, Musiikkitalo, Laulumusiikinstudio 2 esittää Venäläistä laulumusiikkia
-- [7.11.2015 klo. 14: Musiikkitalo, Paavo harjoitussali, Atso´s Corner](http://www.uniarts.fi/uutishuone/atso’s-corner-levittää-orkesterimusiikin-ilosanomaa-musiikkitalossa)
-- [12.11.2015 klo. 19: Temppeliaukion kirkko, Minimalistista ja Uusromanttista kamarimusiikkia, Kantakaupungin kitarakonsertit](https://www.facebook.com/575590065792704/photos/a.575600025791708.1073741827.575590065792704/1090049237680115/?type=3&theater)
-- Tulossa ensi vuonna: [Start-up Opera](http://startupopera.blogspot.fi/)
+- [7.11.2015 klo. 14: Paavo harjoitussali, Musiikkitalo, Atso´s Corner](http://www.uniarts.fi/uutishuone/atso’s-corner-levittää-orkesterimusiikin-ilosanomaa-musiikkitalossa)
+- [12.11.2015 klo. 19: Temppeliaukion kirkko, Minimalistista ja Uusromanttista kamarimusiikkia, Kantakaupungin kitarakonsertit, Milla Mäkinen, sopraano, Otto Tolonen, kitara, Angel Molinos, bassoklarinetti](https://www.facebook.com/575590065792704/photos/a.575600025791708.1073741827.575590065792704/1090049237680115/?type=3&theater)
+- [1.3.2016 klo 19: Camerata-sali, Musiikkitalo: Start-up ooppera](http://startupopera.blogspot.fi/)
