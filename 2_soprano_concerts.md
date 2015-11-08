@@ -27,4 +27,5 @@ title: soprano-concerts
 - 3.11.2015 klo. 19: Camerata-sali, Musiikkitalo, Laulumusiikinstudio 2 esittää Venäläistä laulumusiikkia
 - [7.11.2015 klo. 14: Paavo harjoitussali, Musiikkitalo, Atso´s Corner](http://www.uniarts.fi/uutishuone/atso’s-corner-levittää-orkesterimusiikin-ilosanomaa-musiikkitalossa)
 - [12.11.2015 klo. 19: Temppeliaukion kirkko, Minimalistista ja Uusromanttista kamarimusiikkia, Kantakaupungin kitarakonsertit, Milla Mäkinen, sopraano, Otto Tolonen, kitara, Angel Molinos, bassoklarinetti](https://www.facebook.com/575590065792704/photos/a.575600025791708.1073741827.575590065792704/1090049237680115/?type=3&theater)
+- 1.12.2015: Lahden Kaupunginteatterin piha, Valon juhla, Milla Mäkinen, sopraano, Mirva Minkkinen, sähkökantele
 - [1.3.2016 klo 19: Camerata-sali, Musiikkitalo: Start-up ooppera](http://startupopera.blogspot.fi/)
