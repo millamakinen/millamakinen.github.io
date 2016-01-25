@@ -29,5 +29,5 @@ title: soprano-concerts
 - [12.11.2015 klo. 19: Temppeliaukion kirkko, Minimalistista ja Uusromanttista kamarimusiikkia, Kantakaupungin kitarakonsertit, Milla Mäkinen, sopraano, Otto Tolonen, kitara, Angel Molinos, bassoklarinetti](https://www.facebook.com/575590065792704/photos/a.575600025791708.1073741827.575590065792704/1090049237680115/?type=3&theater)
 - 1.12.2015: Lahden Kaupunginteatterin piha, Valon juhla, Milla Mäkinen, sopraano, Mirva Minkkinen, sähkökantele
 - [20.2.2016 klo. 15: Musiikkitalo, Organo-sali, Greetings to Monarchs -englantilaista barokkimusiikkia hallitsijoille](https://www.facebook.com/events/540155579478116/)
-- [1.3.2016 klo. 19: Camerata-sali, Musiikkitalo: Start-up ooppera](http://startupopera.blogspot.fi/)
+- [1.3.2016 klo. 19: Camerata-sali, Musiikkitalo: Start-up Ooppera esittää: Jääkausi](http://startupopera.blogspot.fi/)
 - 7.4.2016 klo. 19.30: Conservatory of Amsterdam, Sweelinckzaal, Oosterdokskade 151, Manca: Terzo congegno del sole passante
