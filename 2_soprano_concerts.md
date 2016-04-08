@@ -24,10 +24,19 @@ title: soprano-concerts
 - [23.-25.10.2015: Helsingin Konservatorio, Helsinki Lied -kilpailu, lied-duo Milla Mäkinen ja Jenni Ljung](http://www.konservatorio.fi/fi/helsinki_lied_-kilpailu)
 - [29.10.2015 klo. 19: CLF Art Cafe, 133 Rye Lane SE15 4 ST London, Miika Hyytiäisen Hear here- showcase, Milla Mäkinen, sopraano, Kaisamaija Uljas, Renessanssiluuttu](https://www.facebook.com/events/883305005086483/)
 - [1.11.2015 klo. 13.15: Kätevä & Tekevä -kädentaitomessut, Lahden Suurhalli, Nenäkästä oopperaa, Milla Mäkinen, sopraano ja Mirva Minkkinen, sähkökantele](https://www.facebook.com/events/881338191919381/)
-- 3.11.2015 klo. 19: Camerata-sali, Musiikkitalo, Laulumusiikinstudio 2 esittää Venäläistä laulumusiikkia
+- 3.11.2015 klo. 19: Camerata-sali, Musiikkitalo, Laulumusiikin Studio 2 esittää Venäläistä laulumusiikkia
 - [7.11.2015 klo. 14: Paavo harjoitussali, Musiikkitalo, Atso´s Corner](http://www.uniarts.fi/uutishuone/atso’s-corner-levittää-orkesterimusiikin-ilosanomaa-musiikkitalossa)
 - [12.11.2015 klo. 19: Temppeliaukion kirkko, Minimalistista ja Uusromanttista kamarimusiikkia, Kantakaupungin kitarakonsertit, Milla Mäkinen, sopraano, Otto Tolonen, kitara, Angel Molinos, bassoklarinetti](https://www.facebook.com/575590065792704/photos/a.575600025791708.1073741827.575590065792704/1090049237680115/?type=3&theater)
 - 1.12.2015: Lahden Kaupunginteatterin piha, Valon juhla, Milla Mäkinen, sopraano, Mirva Minkkinen, sähkökantele
 - [20.2.2016 klo. 15: Musiikkitalo, Organo-sali, Greetings to Monarchs -englantilaista barokkimusiikkia hallitsijoille](https://www.facebook.com/events/540155579478116/)
 - [1.3.2016 klo. 19: Camerata-sali, Musiikkitalo: Start-up Ooppera esittää: Jääkausi](http://startupopera.blogspot.fi/)
 - 7.4.2016 klo. 19.30: Conservatory of Amsterdam, Sweelinckzaal, Oosterdokskade 151, Manca: Terzo congegno del sole passante
+- 4.5.2016 klo. 19: Camerata-sali, Musiikkitalo: Laulumusiikin Studio 2 esittää uutta suomalaista laulumusiikkia
+- 31.5.2016 klo. 19: Hietsun Paviljonki: Start-up Opera esittää: Jääkausi
+- 17.6.2016: Barokki Soi Kajaani
+- 13.8.2016: Flow Festival: Reich: Proverb
+- 31.8.2016 klo. 18: Ruoholahdentori 6, konserttisali: Monteverdi: Il ritorno d'Ulisse in patria
+- 2.9.2016 klo. 18: Ruoholahdentori 6, konserttisali: Monteverdi: Il ritorno d'Ulisse in patria
+- 3.9.2016 klo. 15: Ruoholahdentori 6, konserttisali: Monteverdi: Il ritorno d'Ulisse in patria
+- 5.9.2016 klo. 18: Ruoholahdentori 6, konserttisali: Monteverdi: Il ritorno d'Ulisse in patria
+- 1.10.2016 klo. 19: Konserttisali, Musiikkitalo: Haapanen: Ladies' Room
