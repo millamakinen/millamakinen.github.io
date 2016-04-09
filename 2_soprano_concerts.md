@@ -6,6 +6,8 @@ title: soprano-concerts
 
 
 
+<!-- 
+
 - [14.2.2015 klo.19: Heinolan rantapuisto, kansainvälinen jääfestivaali, Milla Mäkinen, sopraano ja Mirva Minkkinen, sähkökantele](http://ess.menoinfo.fi/heinola/tapahtumat/heinolan-iii-kansainvalinen-jaafestivaali/475091)
 - [28.2.2015 klo. 16: Café Barock, Allotria, Hämeentie 68, Milla Mäkinen, sopraano ja Kaisamaija Uljas, teorbi](http://www.cafebarock.com/events/)
 - 8.3.2015 klo.13: Cafe Carusel, Merisatamantie 10, Varhaisbarokin naissäveltäjiä
@@ -31,6 +33,9 @@ title: soprano-concerts
 - [20.2.2016 klo. 15: Musiikkitalo, Organo-sali, Greetings to Monarchs -englantilaista barokkimusiikkia hallitsijoille](https://www.facebook.com/events/540155579478116/)
 - [1.3.2016 klo. 19: Camerata-sali, Musiikkitalo: Start-up Ooppera esittää: Jääkausi](http://startupopera.blogspot.fi/)
 - 7.4.2016 klo. 19.30: Conservatory of Amsterdam, Sweelinckzaal, Oosterdokskade 151, Manca: Terzo congegno del sole passante
+
+-->
+
 - 4.5.2016 klo. 19: Camerata-sali, Musiikkitalo: Laulumusiikin Studio 2 esittää uutta suomalaista laulumusiikkia
 - 31.5.2016 klo. 19: Hietsun Paviljonki: Start-up Opera esittää: Jääkausi
 - 17.6.2016: Barokki Soi Kajaani
