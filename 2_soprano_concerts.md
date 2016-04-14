@@ -38,7 +38,9 @@ title: soprano-concerts
 
 - 4.5.2016 klo. 19: Camerata-sali, Musiikkitalo: Laulumusiikin Studio 2 esittää uutta suomalaista laulumusiikkia
 - 31.5.2016 klo. 19: Hietsun Paviljonki: Start-up Opera esittää: Jääkausi
-- 17.6.2016: Barokki Soi Kajaani
+- 17.6.2016 klo. 19: Barokki Soi Kajaani
+- 18.6.2016 klo. 14: Barokki Soi Kajaani
+- 24.7.2016 klo 18: Kannelmäen kirkko
 - 13.8.2016: Flow Festival: Reich: Proverb
 - 31.8.2016 klo. 18: Ruoholahdentori 6, konserttisali: Monteverdi: Il ritorno d'Ulisse in patria
 - 2.9.2016 klo. 18: Ruoholahdentori 6, konserttisali: Monteverdi: Il ritorno d'Ulisse in patria
