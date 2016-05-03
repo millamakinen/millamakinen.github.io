@@ -42,7 +42,7 @@ title: soprano-concerts
 - 17.6.2016 klo. 19: Barokki Soi Kajaani
 - 18.6.2016 klo. 14: Barokki Soi Kajaani
 - [24.7.2016 klo 18: Kannelmäen kirkko: Kesä ja crossover - musiikkia kansanlauluista jazziin](http://www.helsinginseurakunnat.fi/seurakunnat/kannelmaki/tapahtumat/kesajacrossover-kansanlauluistajazziin_30497.html.stx)
-- 13.8.2016: Flow Festival: Reich: Proverb
+- [13.8.2016: Flow Festival: Reich: Proverb](http://www.flowfestival.com/en/)
 - 31.8.2016 klo. 18: Ruoholahdentori 6, konserttisali: Monteverdi: Il ritorno d'Ulisse in patria
 - 2.9.2016 klo. 18: Ruoholahdentori 6, konserttisali: Monteverdi: Il ritorno d'Ulisse in patria
 - 3.9.2016 klo. 15: Ruoholahdentori 6, konserttisali: Monteverdi: Il ritorno d'Ulisse in patria
