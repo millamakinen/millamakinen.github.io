@@ -36,7 +36,7 @@ title: soprano-concerts
 
 -->
 
-- 4.5.2016 klo. 19: Camerata-sali, Musiikkitalo: Laulumusiikin Studio 2 esittää uutta suomalaista laulumusiikkia
+- [4.5.2016 klo. 19: Camerata-sali, Musiikkitalo: Laulumusiikin Studio 2 esittää uutta suomalaista laulumusiikkia](https://www.musiikkitalo.fi/fi/tapahtuma/laulumusiikin-studio-2n-konsertti)
 - [31.5.2016 klo. 19: Töölö Soi 2016, Hietsun Paviljonki: Start-up Opera esittää: Jääkausi](https://www.facebook.com/events/1623845324606384/)
 - 15.6.2016 klo. 19: Pitskun Kulttuurikirkko: Veden varjo
 - 17.6.2016 klo. 19: Barokki Soi Kajaani
