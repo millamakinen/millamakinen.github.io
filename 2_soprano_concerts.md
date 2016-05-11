@@ -39,8 +39,8 @@ title: soprano-concerts
 - [4.5.2016 klo. 19: Camerata-sali, Musiikkitalo: Laulumusiikin Studio 2 esittää uutta suomalaista laulumusiikkia](https://www.musiikkitalo.fi/fi/tapahtuma/laulumusiikin-studio-2n-konsertti)
 - [31.5.2016 klo. 19: Töölö Soi 2016, Hietsun Paviljonki: Start-up Opera esittää: Jääkausi](https://www.facebook.com/events/1623845324606384/)
 - 15.6.2016 klo. 19: Pitskun Kulttuurikirkko: Veden varjo
-- 17.6.2016 klo. 19: Barokki Soi Kajaani
-- 18.6.2016 klo. 14: Barokki Soi Kajaani
+- [17.6.2016 klo. 19: Barokki Soi Kajaani](http://www.barokkisoi.fi/kalenteri.html)
+- [18.6.2016 klo. 14: Barokki Soi Kajaani](http://www.barokkisoi.fi/kalenteri.html)
 - [24.7.2016 klo 18: Kannelmäen kirkko: Kesä ja crossover - musiikkia kansanlauluista jazziin](http://www.helsinginseurakunnat.fi/seurakunnat/kannelmaki/tapahtumat/kesajacrossover-kansanlauluistajazziin_30497.html.stx)
 - [13.8.2016: Flow Festival: Reich: Proverb](http://www.flowfestival.com/en/)
 - 31.8.2016 klo. 18: Ruoholahdentori 6, konserttisali: Monteverdi: Il ritorno d'Ulisse in patria
