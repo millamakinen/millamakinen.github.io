@@ -43,8 +43,8 @@ title: soprano-concerts
 - [18.6.2016 klo. 14: Barokki Soi Kajaani](http://www.barokkisoi.fi/kalenteri.html)
 - [24.7.2016 klo 18: Kannelmäen kirkko: Kesä ja crossover - musiikkia kansanlauluista jazziin](http://www.helsinginseurakunnat.fi/seurakunnat/kannelmaki/tapahtumat/kesajacrossover-kansanlauluistajazziin_30497.html.stx)
 - [13.8.2016: Flow Festival: Reich: Proverb](http://www.flowfestival.com/en/artists/nyky-ensemble-plays-reich/)
-- 31.8.2016 klo. 18: Ruoholahdentori 6, konserttisali: Monteverdi: Il ritorno d'Ulisse in patria
-- 2.9.2016 klo. 18: Ruoholahdentori 6, konserttisali: Monteverdi: Il ritorno d'Ulisse in patria
-- 3.9.2016 klo. 15: Ruoholahdentori 6, konserttisali: Monteverdi: Il ritorno d'Ulisse in patria
-- 5.9.2016 klo. 18: Ruoholahdentori 6, konserttisali: Monteverdi: Il ritorno d'Ulisse in patria
+- [31.8.2016 klo. 18: Ruoholahdentori 6, konserttisali: Monteverdi: Il ritorno d'Ulisse in patria](https://odysseuskotiin.wordpress.com)
+- [2.9.2016 klo. 18: Ruoholahdentori 6, konserttisali: Monteverdi: Il ritorno d'Ulisse in patria](https://odysseuskotiin.wordpress.com)
+- [3.9.2016 klo. 15: Ruoholahdentori 6, konserttisali: Monteverdi: Il ritorno d'Ulisse in patria](https://odysseuskotiin.wordpress.com)
+- [5.9.2016 klo. 18: Ruoholahdentori 6, konserttisali: Monteverdi: Il ritorno d'Ulisse in patria](https://odysseuskotiin.wordpress.com)
 - 1.10.2016 klo. 19: Konserttisali, Musiikkitalo: Haapanen: Ladies' Room
