@@ -47,4 +47,4 @@ title: soprano-concerts
 - [2.9.2016 klo. 18: Ruoholahdentori 6, konserttisali: Monteverdi: Il ritorno d'Ulisse in patria](https://odysseuskotiin.wordpress.com)
 - [3.9.2016 klo. 15: Ruoholahdentori 6, konserttisali: Monteverdi: Il ritorno d'Ulisse in patria](https://odysseuskotiin.wordpress.com)
 - [5.9.2016 klo. 18: Ruoholahdentori 6, konserttisali: Monteverdi: Il ritorno d'Ulisse in patria](https://odysseuskotiin.wordpress.com)
-- 1.10.2016 klo. 19: Konserttisali, Musiikkitalo: Haapanen: Ladies' Room
+- [1.10.2016 klo. 19: Konserttisali, Musiikkitalo: Haapanen: Ladies' Room](https://www.musiikkitalo.fi/fi/tapahtuma/sibelius-akatemian-sinfoniaorkesteri-joht-jutta-seppinen)
