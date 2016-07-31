@@ -45,6 +45,7 @@ title: soprano-concerts
 - [13.8.2016: Flow Festival: Reich: Proverb](http://www.flowfestival.com/en/artists/nyky-ensemble-plays-reich/)
 - [31.8.2016 klo. 18: Ruoholahdentori 6, konserttisali: Monteverdi: Il ritorno d'Ulisse in patria](https://odysseuskotiin.wordpress.com)
 - [2.9.2016 klo. 18: Ruoholahdentori 6, konserttisali: Monteverdi: Il ritorno d'Ulisse in patria](https://odysseuskotiin.wordpress.com)
-- [3.9.2016 klo. 15: Ruoholahdentori 6, konserttisali: Monteverdi: Il ritorno d'Ulisse in patria](https://odysseuskotiin.wordpress.com)
+- [3.9.2016 klo. 14: Ruoholahdentori 6, konserttisali: Monteverdi: Il ritorno d'Ulisse in patria](https://odysseuskotiin.wordpress.com)
 - [5.9.2016 klo. 18: Ruoholahdentori 6, konserttisali: Monteverdi: Il ritorno d'Ulisse in patria](https://odysseuskotiin.wordpress.com)
+- 30.9.2016 klo. 19: Hallintokatu 4, Järvenpää, Sibelius Hall: Haapanen: Ladies' Room](https://www.musiikkitalo.fi/fi/tapahtuma/sibelius-akatemian-sinfoniaorkesteri-joht-jutta-seppinen)
 - [1.10.2016 klo. 19: Konserttisali, Musiikkitalo: Haapanen: Ladies' Room](https://www.musiikkitalo.fi/fi/tapahtuma/sibelius-akatemian-sinfoniaorkesteri-joht-jutta-seppinen)
