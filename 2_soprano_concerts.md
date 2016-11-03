@@ -50,7 +50,7 @@ title: soprano-concerts
 - [30.9.2016 klo. 19: Hallintokatu 4, Järvenpää, Sibelius Hall: Haapanen: Ladies' Room](https://www.musiikkitalo.fi/fi/tapahtuma/sibelius-akatemian-sinfoniaorkesteri-joht-jutta-seppinen)
 - [1.10.2016 klo. 19: Konserttisali, Musiikkitalo: Haapanen: Ladies' Room](https://www.musiikkitalo.fi/fi/tapahtuma/sibelius-akatemian-sinfoniaorkesteri-joht-jutta-seppinen)
 - [28.10.2016 klo. 19: Black Box, Musiikkitalo: NYKY Ensemble: Steve Reich: Back to Roots](https://www.facebook.com/events/1639046786410590/)
- - 20.11.2016 Lisää infoa myöhemmin
+ - [20.11.2016 klo. 19: Topeliuksenkatu 16, Helsinki: Still in your shade: Barokkiyhtye Detritus ja kabareebändi Café de Abejas](https://www.facebook.com/events/1343480635670157/)
  - 3.2.2017 Lisää infoa myöhemmin
  - 8.3.2017 Lisää infoa myöhemmin
  - 9.3.2017 Lisää infoa myöhemmin
