@@ -53,6 +53,6 @@ title: soprano-concerts
  - [20.11.2016 klo. 19: Topeliuksenkatu 16, Helsinki: Still in your shade: Barokkiyhtye Detritus ja kabareebändi Café de Abejas](https://www.facebook.com/events/1343480635670157/)
  - [28.11.2016 klo. 19: Tenho Restobar, Helsinginkatu 15: Café de Abejas feat. Detritus](https://www.facebook.com/events/223891638043660/)
  - 3.2.2017 Lisää infoa myöhemmin
- - [8.3.2017 klo. 19: Sininen huvila, Linnunlauluntie 11 EARLY ENCHANTRESSES- Naistenpäivän salonki] (http://encanto.fi/salongit/ohjelma/take-love-easy/)
+ - [8.3.2017 klo. 19: Sininen huvila, Linnunlauluntie 11: EARLY ENCHANTRESSES- Naistenpäivän salonki] (http://encanto.fi/salongit/ohjelma/take-love-easy/)
  - 20.3.2017 Saksalainen kirkko, Unioninkatu 1, Helsinki: Barokkikonsertti
  - 15.4.2017: Pyhän Laurin kirkko, Kirkkotie 45, Vantaa: Couperin: Leçons de ténèbres
