@@ -56,3 +56,4 @@ title: soprano-concerts
  - [8.3.2017 klo. 19: Sininen huvila, Linnunlauluntie 11: EARLY ENCHANTRESSES- Naistenpäivän salonki](http://encanto.fi/salongit/ohjelma/take-love-easy/)
  - 20.3.2017 klo. 18: Saksalainen kirkko, Unioninkatu 1, Helsinki: Barokkikonsertti
  - 15.4.2017: Pyhän Laurin kirkko, Kirkkotie 45, Vantaa: Couperin: Leçons de ténèbres
+- 18.11.2017: Lisää tietoa myöhemmin
