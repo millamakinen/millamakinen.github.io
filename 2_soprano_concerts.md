@@ -61,6 +61,9 @@ title: soprano-concerts
  - 9.6.2017: Lisää infoa myöhemmin
  - 14.6.2017 klo. 14: Musiikkitalo, Organo: Barokkiyhtye Detritus
 - [18.11.2017 klo. 18: Villa Concerto: Oopperamusiikin helmiä, Milla Mäkinen ja Mirva Minkkinen](https://holvi.com/shop/variando/product/a284ac5ff4f543ee8eba99553f1668b0/)
+
 -3.12.2017: Lisää infoa myöhemmin
+
 -7.12.2017: Lisää infoa myöhemmin
+
 -28.4.2018: Lisää infoa myöhemmin
