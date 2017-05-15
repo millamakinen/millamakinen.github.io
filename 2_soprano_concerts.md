@@ -57,7 +57,7 @@ title: soprano-concerts
  - 20.3.2017 klo. 18: Saksalainen kirkko, Unioninkatu 1, Helsinki: Barokkikonsertti
  - [1.4.2017 klo. 14: Atso's Corner](http://www.uniarts.fi/tapahtumat/ke-26102016-1420/atso´s-corner-aprilli-corner)
  - [15.4.2017: Pyhän Laurin kirkko, Kirkkotie 45, Vantaa: Couperin: Leçons de ténèbres](https://www.facebook.com/events/183416675498328/?fref=ts)
- - 21.5.2017 klo. 19: Temppeliaukion kirkko: Eternal light (Goodall) ja Requiem (Fauré)
+ - [21.5.2017 klo. 19: Temppeliaukion kirkko: Eternal light (Goodall) ja Requiem (Fauré)](https://www.facebook.com/events/389251868087508/)
  - 9.6.2017: Lisää infoa myöhemmin
  - 14.6.2017 klo. 14: Musiikkitalo, Organo: Barokkiyhtye Detritus
 - [18.11.2017 klo. 18: Villa Concerto: Oopperamusiikin helmiä, Milla Mäkinen ja Mirva Minkkinen](https://holvi.com/shop/variando/product/a284ac5ff4f543ee8eba99553f1668b0/)
