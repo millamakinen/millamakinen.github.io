@@ -58,12 +58,14 @@ title: soprano-concerts
  - [1.4.2017 klo. 14: Atso's Corner](http://www.uniarts.fi/tapahtumat/ke-26102016-1420/atso´s-corner-aprilli-corner)
  - [15.4.2017: Pyhän Laurin kirkko, Kirkkotie 45, Vantaa: Couperin: Leçons de ténèbres](https://www.facebook.com/events/183416675498328/?fref=ts)
  - [21.5.2017 klo. 19: Temppeliaukion kirkko: Eternal light (Goodall) ja Requiem (Fauré)](https://www.facebook.com/events/389251868087508/)
- - 9.6.2017: Lisää infoa myöhemmin
- - 14.6.2017 klo. 14: Musiikkitalo, Organo: Barokkiyhtye Detritus
+ - [9.6.2017 klo. 15: Teeleidi, Schaumanin puistotie 2, Jyväskylä: Soisin päivät soitettavan - Renessanssiluuttulauluja ja suomalaisia kansanlauluja, Barokkiyhyte Detritus ](https://www.facebook.com/events/1182085528569016/?acontext=%7B%22ref%22%3A%223%22%2C%22ref_newsfeed_story_type%22%3A%22regular%22%2C%22feed_story_type%22%3A%22117%22%2C%22action_history%22%3A%22null%22%7D)
+ - [9.6.2017 klo. 18: Kuokkalan kartano, Talliteatteri Julius, Hämeenpohjantie 50 Jyväskylä: Soisin päivät soitettavan - Renessanssiluuttulauluja ja suomalaisia kansanlauluja, Barokkiyhyte Detritus](https://www.facebook.com/events/1182085528569016/?acontext=%7B%22ref%22%3A%223%22%2C%22ref_newsfeed_story_type%22%3A%22regular%22%2C%22feed_story_type%22%3A%22117%22%2C%22action_history%22%3A%22null%22%7D)
+ - [10.6.2017 klo. 14 Äänekosken taidemuseo, Kuhnamontie 1, Äänekoski: Soisin päivät soitettavan - Renessanssiluuttulauluja ja suomalaisia kansanlauluja, Barokkiyhyte Detritus](https://www.facebook.com/events/1182085528569016/?acontext=%7B%22ref%22%3A%223%22%2C%22ref_newsfeed_story_type%22%3A%22regular%22%2C%22feed_story_type%22%3A%22117%22%2C%22action_history%22%3A%22null%22%7D)
+ - [14.6.2017 klo. 14: Musiikkitalo, Organo: Soisin päivät soitettavan - Renessanssiluuttulauluja ja suomalaisia kansanlauluja, Barokkiyhyte Detritus](https://www.musiikkitalo.fi/fi/tapahtuma/barokkiyhtye-detritus-soisin-paivat-soitettavan)
 - [18.11.2017 klo. 18: Villa Concerto: Oopperamusiikin helmiä, Milla Mäkinen ja Mirva Minkkinen](https://holvi.com/shop/variando/product/a284ac5ff4f543ee8eba99553f1668b0/)
 
 -3.12.2017: Lisää infoa myöhemmin
 
--7.12.2017: Lisää infoa myöhemmin
+-[7.12.2017 klo. 19: Kuopion kaupunginorkesteri: Valossa! Suomalaisuuden sävyjä](http://www.kuopiotahko.fi/tapahtuma/kuopion-kaupunginorkesteri-valossa-suomalaisuuden-savyja/)
 
 -28.4.2018: Lisää infoa myöhemmin
