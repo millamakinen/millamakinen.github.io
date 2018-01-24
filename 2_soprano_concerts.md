@@ -67,4 +67,4 @@ title: soprano-concerts
 
 -6.3.2018 klo. 16.30: Musiikkitalo, Organo: Ludus Finitus
 
--28.4.2018: Lisää infoa myöhemmin
+-28.4.2018 klo. 14: Musiikkitalo, Sonore: Pimp Your Sinfonietta (Kapubändi ja Korvat auki r.y.)
