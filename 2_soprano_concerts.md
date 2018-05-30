@@ -68,4 +68,4 @@ title: soprano-concerts
 -6.3.2018 klo. 16.30: Musiikkitalo, Organo: Ludus Finitus
 
 -28.4.2018 klo. 14: Musiikkitalo, Sonore: Pimp Your Sinfonietta (Kapubändi ja Korvat auki r.y.)
--[8.9.2018: Universum, Perämiehenkatu 13, Helsinki: Ave Virgo Ave Vos - burleskitaidetta ja Neitsyt Marialle sävellettyä musiikkia] (https://avevirgoavevos.tumblr.com)
+-[8.9.2018: Universum, Perämiehenkatu 13, Helsinki: Ave Virgo Ave Vos - burleskitaidetta ja Neitsyt Marialle sävellettyä musiikkia](https://avevirgoavevos.tumblr.com)
