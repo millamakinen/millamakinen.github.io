@@ -69,4 +69,12 @@ title: soprano-concerts
 
 -28.4.2018 klo. 14: Musiikkitalo, Sonore: Pimp Your Sinfonietta (Kapubändi ja Korvat auki r.y.)
 
--[8.9.2018: Universum, Perämiehenkatu 13, Helsinki: Ave Virgo Ave Vos - burleskitaidetta ja Neitsyt Marialle sävellettyä musiikkia](https://avevirgoavevos.tumblr.com)
+-17.8.2018 klo. 17: Barokki Soi Kajaani, Raatihuone: Barokkiyhtye Detritus
+
+-25.8.2018 klo. 13: Galleria Nuovo, Mariankatu 16, 15110 Lahti: Barokkiyhtye Detritus
+
+-[8.9.2018 klo. 18: Universum, Perämiehenkatu 13, Helsinki: Ave Virgo Ave Vos - burleskitaidetta ja Neitsyt Marialle sävellettyä musiikkia](https://avevirgoavevos.tumblr.com)
+
+-[9.9.2018 klo. 18: Universum, Perämiehenkatu 13, Helsinki: Ave Virgo Ave Vos - burleskitaidetta ja Neitsyt Marialle sävellettyä musiikkia](https://avevirgoavevos.tumblr.com)
+
+
