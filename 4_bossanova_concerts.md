@@ -7,4 +7,4 @@ title: bossanova-concerts
 
 - [6.10.2018 klo. 21: Lilla Villan: Sipoon äänet - Sibbo toner kitarafestivaali](http://sipoonaanet.fi)
 
--9.11.2018 klo. 20: Yökirjasto, Paasikivenkatu 12, Kerava
+-[9.11.2018 klo. 20: Yökirjasto, Paasikivenkatu 12, Kerava](https://www.facebook.com/events/355913455148249/)
