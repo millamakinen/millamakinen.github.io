@@ -77,7 +77,8 @@ title: soprano-concerts
 
 -[9.9.2018 klo. 18: Universum, Perämiehenkatu 13, Helsinki: Ave Virgo Ave Vos - burleskitaidetta ja Neitsyt Marialle sävellettyä musiikkia](https://avevirgoavevos.tumblr.com)
 
--18.12.2018: Lisää infoa myöhemmin
+-[18.12.2018 klo. 20: Tenho Restobar, Helsinginkatu 15: Café de Abejas & Guests:
+Detritus, Armi Von Vep](https://www.facebook.com/?ref=tn_tnmn)
 
 -17.7.2019: Lisää infoa myöhemmin
 
