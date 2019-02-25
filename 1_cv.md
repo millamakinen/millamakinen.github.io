@@ -4,7 +4,7 @@ title: Biografia
 
 
 
-Sopraano Milla Mäkinen on valmistunut musiikin maisteriksi Sibelius-Akatemiassa laulumusiikin osastolta suuntautumisvaihtoehtonaan laulupedagogiikka. Mäkisen laulunopettajia ovat olleet Sirkku Wahlroos-Kaitila, professori Monica Groop, Aulikki Eerola, Sirkka Parviainen sekä Anna-Clara Groundstroem.
+Sopraano Milla Mäkinen on valmistunut musiikin maisteriksi Sibelius-Akatemiasta laulumusiikin osastolta suuntautumisvaihtoehtonaan laulupedagogiikka. Mäkisen laulunopettajia ovat olleet Sirkku Wahlroos-Kaitila, professori Monica Groop, Aulikki Eerola, Sirkka Parviainen sekä Anna-Clara Groundstroem.
 
 Mäkinen on erikoistunut erityisesti barokkimusiikin tulkitsemiseen. Hän on laulanut Orpheus Muses´ -ryhmän oopperaproduktioissa. Rooleista mainittakoon La Prêtresse (Rameau: Anacréon), Ninfa ja Proserpina (Monteverdi: Orfeo) sekä Melanto (Monteverdi: Odysseuksen paluu). Modernimpaa oopperakirjallisuutta Mäkinen pääsi esittämään Itzam Zapatan säveltämässä Jääkaudessa (Start-up Opera 2016), jossa hän lauloi Ihmisen roolin.
 
