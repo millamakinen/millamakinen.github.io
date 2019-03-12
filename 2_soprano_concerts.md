@@ -80,7 +80,7 @@ title: soprano-concerts
 -[18.12.2018 klo. 20: Tenho Restobar, Helsinginkatu 15: Café de Abejas & Guests:
 Detritus, Armi Von Vep](https://www.facebook.com/?ref=tn_tnmn)
 
--24.3.2019 klo. 14: Villa Lill Kallvik, Ave Virgo Ave Vos -musiikkivideon julkaisubileet
+-24.3.2019 klo. 18: Villa Lill Kallvik, Ave Virgo Ave Vos -musiikkivideon julkaisubileet
 
 -7.7.2019: Hakasalmen huvila klo. 14: Missä tyttö lauleleepi - Suomalaista musiikkia kansanrunoihin. Milla Mäkinen,sopraano ja Jenna Ristilä, piano
 
