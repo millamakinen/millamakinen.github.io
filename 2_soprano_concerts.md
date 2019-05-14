@@ -82,6 +82,8 @@ Detritus, Armi Von Vep](https://www.facebook.com/?ref=tn_tnmn)
 
 -24.3.2019 klo. 18: Villa Lill Kallvik, Ave Virgo Ave Vos -musiikkivideon julkaisubileet
 
+-[16.6.2019 klo. 18: Kannelmäen kirkko, YÖ | UNI – lauluja ja tarinoita - englantilaisia ja amerikkalaisia lauluja eri aikakausilta](https://www.facebook.com/events/2255096424579626/)
+
 -7.7.2019: Hakasalmen huvila klo. 14: Missä tyttö lauleleepi - Suomalaista musiikkia kansanrunoihin. Milla Mäkinen,sopraano ja Jenna Ristilä, piano
 
 -[17.7.2019: BarokkiKuopio: Ave Virgo Ave Vos - burleskitaidetta ja Neitsyt Marialle sävellettyä musiikkia](https://avevirgoavevos.tumblr.com)
