@@ -86,6 +86,8 @@ Detritus, Armi Von Vep](https://www.facebook.com/?ref=tn_tnmn)
 
 -7.7.2019: Hakasalmen huvila klo. 14: Missä tyttö lauleleepi - Suomalaista musiikkia kansanrunoihin. Milla Mäkinen,sopraano ja Jenna Ristilä, piano
 
+-16.7.2019 klo. 18: Vapaan Taiteen Tila, Vilhovuorenkuja 15: Ave Virgo Ave Vos - burleskitaidetta ja Neitsyt Marialle sävellettyä musiikkia
+
 -[17.7.2019: BarokkiKuopio: Ave Virgo Ave Vos - burleskitaidetta ja Neitsyt Marialle sävellettyä musiikkia](https://avevirgoavevos.tumblr.com)
 
 
