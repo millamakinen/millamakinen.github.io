@@ -22,7 +22,7 @@ Tulevia esiintymisiä:
 
 Ke 24.7.2019 klo. 18: Imatrankosken kirkko, Imatra, Missä tyttö lauleleepi - Suomalaista musiikkia kansanrunoihin. Milla Mäkinen, sopraano ja Jenna Ristilä, piano
 
-28.7.2019 klo. 18: Myllypuron kirkko, Missä tyttö lauleleepi - Suomalaista musiikkia kansanrunoihin. Milla Mäkinen, sopraano ja Jenna Ristilä, piano
+Su 28.7.2019 klo. 18: Myllypuron kirkko, Missä tyttö lauleleepi - Suomalaista musiikkia kansanrunoihin. Milla Mäkinen, sopraano ja Jenna Ristilä, piano
 
 <br/>
 
