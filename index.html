@@ -26,7 +26,9 @@ title: index
 
 		<!-- FONT
 	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
-		<link href='http://fonts.googleapis.com/css?family=Raleway:400,200,300,600' rel='stylesheet' type='text/css'>
+<!--		<link href='http://fonts.googleapis.com/css?family=Raleway:400,200,300,600' rel='stylesheet' type='text/css'>-->
+		<link href="https://fonts.googleapis.com/css?family=Cousine&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Cutive+Mono&display=swap" rel="stylesheet">
 
 		<!-- CSS
 	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -34,107 +36,60 @@ title: index
 
 		<!-- Favicon
 	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+		<link rel="apple-touch-icon-precomposed" sizes="57x57" href="apple-touch-icon-57x57.png" />
+		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-icon-114x114.png" />
+		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-icon-72x72.png" />
+		<link rel="apple-touch-icon-precomposed" sizes="144x144" href="apple-touch-icon-144x144.png" />
+		<link rel="apple-touch-icon-precomposed" sizes="60x60" href="apple-touch-icon-60x60.png" />
+		<link rel="apple-touch-icon-precomposed" sizes="120x120" href="apple-touch-icon-120x120.png" />
+		<link rel="apple-touch-icon-precomposed" sizes="76x76" href="apple-touch-icon-76x76.png" />
+		<link rel="apple-touch-icon-precomposed" sizes="152x152" href="apple-touch-icon-152x152.png" />
+		<link rel="icon" type="image/png" href="favicon-196x196.png" sizes="196x196" />
+		<link rel="icon" type="image/png" href="favicon-96x96.png" sizes="96x96" />
+		<link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
+		<link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
+		<link rel="icon" type="image/png" href="favicon-128.png" sizes="128x128" />
+		<meta name="application-name" content="&nbsp;"/>
+		<meta name="msapplication-TileColor" content="#FFFFFF" />
+		<meta name="msapplication-TileImage" content="mstile-144x144.png" />
+		<meta name="msapplication-square70x70logo" content="mstile-70x70.png" />
+		<meta name="msapplication-square150x150logo" content="mstile-150x150.png" />
+		<meta name="msapplication-wide310x150logo" content="mstile-310x150.png" />
+		<meta name="msapplication-square310x310logo" content="mstile-310x310.png" />
+
 		<!-- 
 		<link rel="icon" type="image/png" href="images/favicon.png?v=2" />
 		<link rel="icon" type="image/png" href="images/favicon.png" />
 		-->
 	</head>
-	<body>
+	<body style="background-color: #e8e8e8;">
 
 		<!-- title -->
-		<div class="section title">
-			<div class="container">
-				<div class="row">
-						<a href="http://millamakinen.fi"><h1>Milla Mäkinen</h1></a>
-					<div class="three columns"> </div>
-				</div>
-			</div>
-		</div>
-		<!-- menu -->
-		<div class="section menu">
-			<div class="container">
-				<div class="row">
-					<div class="one-third column">
-						<a href="#cv"><h3>Sopraano</h3></a>
-					</div>
-					<div class="one-third column">
-						<a href="#bossanova"><h3>Bossa nova</h3></a>
-					</div>
-					<div class="one-third column">
-						<a href="#teaching"><h3>Laulunopetusta</h3></a>
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- soprano -->
-		<div class="section soprano">
-			<div class="container">
-				<div class="row">
-					<div class="two-thirds column"> 
-						<img src="images/soprano.jpg" alt="Milla Mäkinen, sopraano">
-					</div>
-					<div class="one-third column">
-					</div>
-				</div>
-			</div>
-		</div>
 		<!-- CV -->
-		<div class="section cv" id="cv">
-			<div class="container">
-				<h3>{{ sorted_pages[0].title }}</h3>
-				<br/>
-				<div class="row cv-columns">
-
-						{{ sorted_pages[0].content }}
-
-				</div>
-				<br/>
-				<br/>
-				<div class="row bold">
-						{{ sorted_pages[1].content }}
-						<br/>
-				</div>
-			</div>
-		</div>
-		<!-- bossa nova -->
-		<div class="section bossanova" id="bossanova">
+		<div class="section" id="cv">
 			<div class="container">
 				<div class="row">
-					<div class="one-half column">
-						{{ sorted_pages[2].content }}
-						<hr>
-						<div class="bold">
-						{{ sorted_pages[3].content }}
-						</div>
-						<br/>
-					</div>
-					<div class="one-half column">
-						<img src="images/bossanova.jpg"   alt="Milla Mäkinen, bossanova">
-					</div>
+					<img src="images/header.jpg" style="width: 100%; margin: 5% 0 5% 0; box-shadow: rgb(51, 51, 51) 0px 0px 4px" ;/>
+
+					{{ sorted_pages[0].content }}
+
 				</div>
-			</div>
-		</div>
-		<!-- teaching -->
-		<div class="section teaching" id="teaching">
-			<div class="container">
-				<div class="row" >
-				<!--
-					<div class="one-half column desktop">
-						<img src="images/teacher.jpg" alt="Milla Mäkinen, laulunopetusta">
-					</div>
-					-->
-					<div class="one-half column">
-						{{ site.pages[4].content }}
-					</div>
-					<!--
-					<div class="one-half column mobile">
-						<img src="images/teacher.jpg" alt="Milla Mäkinen, laulunopetusta">
-					</div>
-					-->
-				</div>
+				<p>
+					<a href="resources/ansioluettelo.pdf">Ansioluettelo</a>
+				</p>
+				<p>
+					<a href="https://www.youtube.com/watch?v=zQEUZRj0F68">Musiikkivideo</a>
+				</p>
+				<!--				<p>
+                                    <a href="">Laulunäyte</a>
+                                </p>-->
+				<p>
+					<a href="mailto:milloin@gmail.com">milloin@gmail.com</a>
+				</p>
 			</div>
 		</div>
 		<!-- contact -->
+        <!--
 		<div class="section contact">
 			<div class="container">
 				<div class="row">
@@ -147,6 +102,7 @@ title: index
 				</div>
 			</div>
 		</div>
+		-->
 	</body>
 </html>
 
