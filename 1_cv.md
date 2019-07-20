@@ -14,6 +14,7 @@ erityisesti brasilialaista musiikkia, kuten choroa, bossa novaa ja sambaa.
 Mäkinen työskentelee laulunopettajana Taidetöölössä, Cantabile- kuorossa, Vantaan
 aikuistopistossa ja Helsingin aikuisopistossa.
 
+<br/>
 
 Tulevia esiintymisiä:
 
@@ -22,6 +23,7 @@ Tulevia esiintymisiä:
 
 28.7.2019: Myllypuron kirkko klo. 18: Missä tyttö lauleleepi - Suomalaista musiikkia kansanrunoihin. Milla Mäkinen, sopraano ja Jenna Ristilä, piano
 
+<br/>
 
 {% comment %}
 
