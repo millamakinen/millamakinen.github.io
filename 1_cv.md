@@ -12,7 +12,7 @@ Laulaja-kitaristina Mäkinen on esiintynyt jo yli viidentoista vuoden ajan ohjel
 erityisesti brasilialaista musiikkia, kuten choroa, bossa novaa ja sambaa.
 
 Mäkinen työskentelee laulunopettajana Taidetöölössä, Cantabile- kuorossa, Vantaan
-aikuistopistossa ja Helsingin aikuisopistossa.
+aikuisopistossa ja Helsingin aikuisopistossa.
 
 <br/>
 
@@ -20,8 +20,9 @@ Tulevia esiintymisiä:
 
 
 
+Ke 24.7.2019 klo. 18: Imatrankosken kirkko, Imatra, Missä tyttö lauleleepi - Suomalaista musiikkia kansanrunoihin. Milla Mäkinen, sopraano ja Jenna Ristilä, piano
 
-28.7.2019: Myllypuron kirkko klo. 18: Missä tyttö lauleleepi - Suomalaista musiikkia kansanrunoihin. Milla Mäkinen, sopraano ja Jenna Ristilä, piano
+28.7.2019 klo. 18: Myllypuron kirkko, Missä tyttö lauleleepi - Suomalaista musiikkia kansanrunoihin. Milla Mäkinen, sopraano ja Jenna Ristilä, piano
 
 <br/>
 
