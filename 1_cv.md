@@ -18,15 +18,17 @@ aikuisopistossa ja Helsingin aikuisopistossa.
 
 Tulevia esiintymisiä:
 
+[Pe 16.8 klo 19: How Violins, Mechelininkatu 28 B, Milla Mäkinen, laulu ja kitara](https://www.facebook.com/events/348403775809878/)
 
 
-Ke 24.7.2019 klo. 18: Imatrankosken kirkko, Imatra, Missä tyttö lauleleepi - Suomalaista musiikkia kansanrunoihin. Milla Mäkinen, sopraano ja Jenna Ristilä, piano
-
-Su 28.7.2019 klo. 18: Myllypuron kirkko, Missä tyttö lauleleepi - Suomalaista musiikkia kansanrunoihin. Milla Mäkinen, sopraano ja Jenna Ristilä, piano
 
 <br/>
 
 {% comment %}
+
+Ke 24.7.2019 klo. 18: Imatrankosken kirkko, Imatra, Missä tyttö lauleleepi - Suomalaista musiikkia kansanrunoihin. Milla Mäkinen, sopraano ja Jenna Ristilä, piano
+
+Su 28.7.2019 klo. 18: Myllypuron kirkko, Missä tyttö lauleleepi - Suomalaista musiikkia kansanrunoihin. Milla Mäkinen, sopraano ja Jenna Ristilä, piano
 
 - [17.7.2019: BarokkiKuopio: Ave Virgo Ave Vos - burleskitaidetta ja Neitsyt Marialle sävellettyä musiikkia](https://avevirgoavevos.tumblr.com)
 - 16.7.2019 klo. 18: Vapaan Taiteen Tila, Vilhovuorenkuja 15: Ave Virgo Ave Vos - burleskitaidetta ja Neitsyt Marialle sävellettyä musiikkia
