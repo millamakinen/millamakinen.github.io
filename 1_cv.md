@@ -18,7 +18,7 @@ aikuisopistossa ja Helsingin aikuisopistossa.
 
 Tulevia esiintymisiä:
 
-[Pe 16.8 klo 19: How Violins, Mechelininkatu 28 B, Milla Mäkinen, laulu ja kitara](https://www.facebook.com/events/348403775809878/)
+[Pe 16.8 klo 19: How Violins](https://www.facebook.com/events/348403775809878/), Milla Mäkinen, laulu ja kitara
 
 
 
