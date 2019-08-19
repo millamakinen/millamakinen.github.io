@@ -16,6 +16,9 @@ aikuisopistossa ja Helsingin aikuisopistossa.
 
 <br/>
 
+Seuraava keikka:
+
+La 21.9.2019 klo. 17.30: Otaniemen yö, Väreen aula, Milla Mäkinen, laulu ja kitara
 
 
 <br/>
