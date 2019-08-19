@@ -16,17 +16,17 @@ aikuisopistossa ja Helsingin aikuisopistossa.
 
 <br/>
 
-Tulevia esiintymisiä:
+
+
+<br/>
+
+{% comment %}
 
 To 15.8 klo 19: Taidetöölö, Pietarinkatu 11, Taiteiden yö, Milla Mäkinen, laulu ja kitara
 
 [Pe 16.8 klo 19: How Violins](https://www.facebook.com/events/348403775809878/), Milla Mäkinen, laulu ja kitara
 
 
-
-<br/>
-
-{% comment %}
 
 Ke 24.7.2019 klo. 18: Imatrankosken kirkko, Imatra, Missä tyttö lauleleepi - Suomalaista musiikkia kansanrunoihin. Milla Mäkinen, sopraano ja Jenna Ristilä, piano
 
