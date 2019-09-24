@@ -16,14 +16,15 @@ aikuisopistossa ja Helsingin aikuisopistossa.
 
 <br/>
 
-Seuraava keikka:
-
-[La 21.9.2019 klo. 17.30: Otaniemen yö, Väreen aula, Milla Mäkinen, laulu ja kitara](https://www.ayy.fi/fi/tapahtumat/milla-makinen)
+[Tervetuloa Hengitysworkshopiin 26.10.2019 klo. 13-15](https://hengitys.com)
 
 
 <br/>
 
 {% comment %}
+
+[La 21.9.2019 klo. 17.30: Otaniemen yö, Väreen aula, Milla Mäkinen, laulu ja kitara](https://www.ayy.fi/fi/tapahtumat/milla-makinen)
+
 
 To 15.8 klo 19: Taidetöölö, Pietarinkatu 11, Taiteiden yö, Milla Mäkinen, laulu ja kitara
 
