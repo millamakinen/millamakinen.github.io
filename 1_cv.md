@@ -19,6 +19,11 @@ aikuisopistossa ja Helsingin aikuisopistossa.
 [Tervetuloa Hengitysworkshopiin 26.10.2019 klo. 13-15](https://hengitys.com)
 
 
+Seuraava esiintyminen:
+
+Ke 18.12.2019 klo. 18: Arkadia Bookshop, Nervanderinkatu 11.  
+
+
 <br/>
 
 {% comment %}
