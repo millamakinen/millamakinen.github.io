@@ -18,6 +18,8 @@ aikuisopistossa ja Helsingin aikuisopistossa.
 
 [Tervetuloa Hengitysworkshopiin 26.10.2019 klo. 13-15](https://hengitys.com)
 
+[Tervetuloa Lauletaan Beatlesia! -kurssille 16.-17.11.2019 klo. 10.30-12](https://taidetoolo.fi/viikonloppukurssit/lauletaan-beatlesia/)
+
 
 Seuraava esiintyminen:
 
