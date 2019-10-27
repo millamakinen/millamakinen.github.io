@@ -18,16 +18,16 @@ aikuisopistossa ja Helsingin aikuisopistossa.
 
 
 
-[Tervetuloa Lauletaan Beatlesia! -kurssille 16.-17.11.2019 klo. 10.30-12](https://taidetoolo.fi/viikonloppukurssit/lauletaan-beatlesia/)
+Seuraava kurssi:
 
-
+[Lauletaan Beatlesia! 16.-17.11.2019 klo. 10.30-12](https://taidetoolo.fi/viikonloppukurssit/lauletaan-beatlesia/)
 
 
 
 
 Seuraava esiintyminen:
 
-Ke 18.12.2019 klo. 18: Arkadia Bookshop, Nervanderinkatu 11.  
+The enticing rhythms of bossa nova, Ke 18.12.2019 klo. 18: Arkadia Bookshop, Nervanderinkatu 11.  
 
 
 
