@@ -11,8 +11,8 @@ erikoistunut barokkimusiikin tulkitsemiseen.
 Laulaja-kitaristina Mäkinen on esiintynyt jo yli viidentoista vuoden ajan ohjelmistossaan
 erityisesti brasilialaista musiikkia, kuten choroa, bossa novaa ja sambaa.
 
-Mäkinen työskentelee laulunopettajana Taidetöölössä, Cantabile- kuorossa, Vantaan
-aikuisopistossa ja Helsingin aikuisopistossa.
+Mäkinen työskentelee laulunopettajana Taidetöölössä, Cantabile -kuorossa, Vantaan
+aikuisopistossa, Helsingin aikuisopistossa ja Etelä-Helsingin kansalaisopistossa.
 
 <br/>
 
