@@ -18,10 +18,6 @@ aikuisopistossa ja Helsingin aikuisopistossa.
 
 
 
-Seuraava kurssi:
-
-[Lauletaan Beatlesia! 16.-17.11.2019 klo. 10.30-12](https://taidetoolo.fi/viikonloppukurssit/lauletaan-beatlesia/)
-
 
 
 
