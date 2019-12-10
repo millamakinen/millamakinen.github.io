@@ -23,6 +23,8 @@ aikuisopistossa, Helsingin aikuisopistossa ja Etelä-Helsingin kansalaisopistoss
 
 Seuraava esiintyminen:
 
+[Radiojumalanpalvelus Kallion kirkosta, Su 15.12.2019 klo. 10](https://areena.yle.fi/1-50334029)
+
 [The enticing rhythms of bossa nova, Ke 18.12.2019 klo. 17: Arkadia Bookshop, Nervanderinkatu 11.](https://www.facebook.com/events/761702570999823/)
 
 
