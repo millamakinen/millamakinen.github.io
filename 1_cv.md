@@ -27,6 +27,8 @@ Seuraava esiintyminen:
 
 [The enticing rhythms of bossa nova, Ke 18.12.2019 klo. 17: Arkadia Bookshop, Nervanderinkatu 11.](https://www.facebook.com/events/761702570999823/)
 
+Bossa novaa Oodin Maijansalissa, Ke 15.4.2020 klo. 19-20
+
 
 
 
