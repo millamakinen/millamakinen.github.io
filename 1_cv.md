@@ -21,13 +21,13 @@ aikuisopistossa, Helsingin aikuisopistossa ja Etelä-Helsingin kansalaisopistoss
 
 
 
-Seuraava esiintyminen:
+Seuraavaksi:
 
-[Radiojumalanpalvelus Kallion kirkosta, Su 15.12.2019 klo. 10](https://areena.yle.fi/1-50334029)
+Bossa novaa Oodin Maijansalissa Ke 15.4.2020 klo. 19-20
 
-[The enticing rhythms of bossa nova, Ke 18.12.2019 klo. 17: Arkadia Bookshop, Nervanderinkatu 11.](https://www.facebook.com/events/761702570999823/)
+Ilmainen yhteislaulutilaisuus Kultturitalolla Helsinki Beatles Weekendillä 9.5.2020 klo. 16-17
 
-Bossa novaa Oodin Maijansalissa, Ke 15.4.2020 klo. 19-20
+Barokkiyhtye Detritus esiintyy Ristijärven Veisuufestivaaleilla Su 2.8.2020
 
 
 
@@ -37,6 +37,10 @@ Bossa novaa Oodin Maijansalissa, Ke 15.4.2020 klo. 19-20
 <br/>
 
 {% comment %}
+
+[Radiojumalanpalvelus Kallion kirkosta, Su 15.12.2019 klo. 10](https://areena.yle.fi/1-50334029)
+
+[The enticing rhythms of bossa nova, Ke 18.12.2019 klo. 17: Arkadia Bookshop, Nervanderinkatu 11.](https://www.facebook.com/events/761702570999823/)
 
 [La 21.9.2019 klo. 17.30: Otaniemen yö, Väreen aula, Milla Mäkinen, laulu ja kitara](https://www.ayy.fi/fi/tapahtumat/milla-makinen)
 
