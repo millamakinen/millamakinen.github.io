@@ -23,6 +23,8 @@ aikuisopistossa, Helsingin aikuisopistossa ja Etelä-Helsingin kansalaisopistoss
 
 Seuraavaksi:
 
+[Hengitysworkshop](https://hengitys.com) Riihimäen Jooganavetassa 28.3.2020 klo. 14
+
 [Bossa novaa](https://www.youtube.com/watch?v=O9MrAMhb-1I) Oodin Maijansalissa Ke 15.4.2020 klo. 19-20
 
 Ilmainen yhteislaulutilaisuus Kultturitalolla [Helsinki Beatles Weekendillä](https://beatlesweekend.fi) 9.5.2020 klo. 16-17
