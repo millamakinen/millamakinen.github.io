@@ -25,13 +25,13 @@ Seuraavaksi:
 
 [Hengitysworkshop](https://hengitys.com) Riihimäen Jooganavetassa 28.3.2020 klo. 14
 
-[Bossa novaa](https://www.youtube.com/watch?v=O9MrAMhb-1I) Oodin Maijansalissa Ke 15.4.2020 klo. 19-20
+[Bossa novaa](https://www.youtube.com/watch?v=O9MrAMhb-1I) Oodin Maijansalissa myöhemmin ilmoitettuna ajankohtana
 
-Ilmainen yhteislaulutilaisuus Kultturitalolla [Helsinki Beatles Weekendillä](https://beatlesweekend.fi) 9.5.2020 klo. 16-17
+Ilmainen yhteislaulutilaisuus Kultturitalolla [Helsinki Beatles Weekendillä](https://beatlesweekend.fi) La 5.9.2020 klo. 14
 
 Barokkiyhtye [Detritus](https://www.facebook.com/dtrts/) esiintyy Ristijärven Veisuufestivaaleilla Su 2.8.2020
 
-[Ave Virgo Ave Vos](https://avevirgoavevos.tumblr.com) - Barokkimusiikkia ja Burleskitaidetta Musiikkitalon Camerata-salissa La 5.9.2020
+[Ave Virgo Ave Vos](https://avevirgoavevos.tumblr.com) - Barokkimusiikkia ja Burleskitaidetta Musiikkitalon Camerata-salissa La 5.9.2020 klo. 19
 
 
 
