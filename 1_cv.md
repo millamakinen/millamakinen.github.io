@@ -23,12 +23,9 @@ aikuisopistossa, Helsingin aikuisopistossa ja Etelä-Helsingin kansalaisopistoss
 
 Seuraavaksi:
 
+[Ave Virgo Ave Vos](https://www.musiikkitalo.fi/en/events/2020-09-05/ave-virgo-ave-vos) - Barokkimusiikkia ja Burleskitaidetta Musiikkitalon Camerata-salissa La 5.9.2020 klo. 19
 
-[Bossa novaa](https://www.youtube.com/watch?v=O9MrAMhb-1I) Oodin Maijansalissa myöhemmin ilmoitettuna ajankohtana
-
-Ilmainen yhteislaulutilaisuus Kultturitalolla [Helsinki Beatles Weekendillä](https://beatlesweekend.fi) La 5.9.2020 klo. 14
-
-[Ave Virgo Ave Vos](https://avevirgoavevos.tumblr.com) - Barokkimusiikkia ja Burleskitaidetta Musiikkitalon Camerata-salissa La 5.9.2020 klo. 19
+Ilmainen yhteislaulutilaisuus Kultturitalolla [Helsinki Beatles Weekendillä](https://beatlesweekend.fi) La 8.5.2021 klo. 14
 
 Barokkiyhtye [Detritus](https://www.facebook.com/dtrts/) esiintyy Ristijärven Veisuufestivaaleilla Su 8.8.2021
 
