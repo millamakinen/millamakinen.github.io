@@ -9,9 +9,9 @@ laulumusiikin osastolta suuntautumisvaihtoehtonaan laulupedagogiikka. Mäkinen o
 erikoistunut barokkimusiikin tulkitsemiseen.
 
 Laulaja-kitaristina Mäkinen on esiintynyt jo yli viidentoista vuoden ajan ohjelmistossaan
-erityisesti brasilialaista musiikkia, kuten choroa, bossa novaa ja sambaa.
+erityisesti brasilialaista musiikkia.
 
-Mäkinen työskentelee laulunopettajana Taidetöölössä, Cantabile -kuorossa, Vantaan
+Mäkinen työskentelee laulunopettajana Musiikkiopisto Avoniassa, Cantabile -kuorossa, Vantaan
 aikuisopistossa, Helsingin aikuisopistossa ja Etelä-Helsingin kansalaisopistossa.
 
 <br/>
