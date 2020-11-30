@@ -24,13 +24,13 @@ Seuraavaksi:
 
 Ilmainen yhteislaulutilaisuus Kultturitalolla [Helsinki Beatles Weekendillä](https://beatlesweekend.fi) La 8.5.2021 klo. 14
 
-Luuttufestarit La 15.5.2020
+Luuttufestarit La 15.5.2021
 
-Kitara Nova Su 16.5.2020
+Kitara Nova Su 16.5.2021
 
 Barokkiyhtye [Detritus](https://www.facebook.com/dtrts/) esiintyy Ristijärven Veisuufestivaaleilla Su 8.8.2021
 
-Espoon Barokki La 11.9.2020
+Espoon Barokki La 11.9.2021
 
 
 
