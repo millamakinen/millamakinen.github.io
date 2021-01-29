@@ -24,7 +24,7 @@ Seuraavaksi:
 
 [ΨFM ambient-radiolähetys.](https://helsinkibiennaali.fi/story/psifm/) ΨFM on osa Tuomas A. Laitisen ΨZone-teosta, joka nähdään ensimmäisessä Helsinki Biennaalissa kesällä 2021.
 
-Ilmainen yhteislaulutilaisuus Kultturitalolla [Helsinki Beatles Weekendillä](https://beatlesweekend.fi) La 8.5.2021 klo. 1
+Ilmainen yhteislaulutilaisuus Kultturitalolla [Helsinki Beatles Weekendillä](https://beatlesweekend.fi) La 8.5.2021
 
 Barokkiyhtye [Detritus](https://www.facebook.com/dtrts/) esiintyy Ristijärven Veisuuvestivaaleilla Su 8.8.2021
 
