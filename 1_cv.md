@@ -22,11 +22,9 @@ Mäkinen työskentelee laulunopettajana Musiikkiopisto Avoniassa, Etelä-Helsing
 Seuraavaksi:
 
 
-Ilmainen yhteislaulutilaisuus Kultturitalolla [Helsinki Beatles Weekendillä](https://beatlesweekend.fi) La 8.5.2021 klo. 14
+(ΨFM ambient-radiolähetys. ΨFM on osa Tuomas A. Laitisen ΨZone-teosta, joka nähdään ensimmäisessä Helsinki Biennaalissa kesällä 2021)[https://helsinkibiennaali.fi/story/psifm/]
 
-Luuttufestarit La 15.5.2021
-
-Kitara Nova Su 16.5.2021
+Ilmainen yhteislaulutilaisuus Kultturitalolla [Helsinki Beatles Weekendillä](https://beatlesweekend.fi) La 8.5.2021 klo. 1
 
 Barokkiyhtye [Detritus](https://www.facebook.com/dtrts/) esiintyy Ristijärven Veisuuvestivaaleilla Su 8.8.2021
 
