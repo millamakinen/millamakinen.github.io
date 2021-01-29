@@ -22,7 +22,7 @@ Mäkinen työskentelee laulunopettajana Musiikkiopisto Avoniassa, Etelä-Helsing
 Seuraavaksi:
 
 
-(ΨFM ambient-radiolähetys. ΨFM on osa Tuomas A. Laitisen ΨZone-teosta, joka nähdään ensimmäisessä Helsinki Biennaalissa kesällä 2021)[https://helsinkibiennaali.fi/story/psifm/]
+[ΨFM ambient-radiolähetys. ΨFM on osa Tuomas A. Laitisen ΨZone-teosta, joka nähdään ensimmäisessä Helsinki Biennaalissa kesällä 2021](https://helsinkibiennaali.fi/story/psifm/)
 
 Ilmainen yhteislaulutilaisuus Kultturitalolla [Helsinki Beatles Weekendillä](https://beatlesweekend.fi) La 8.5.2021 klo. 1
 
