@@ -28,7 +28,7 @@ Barokkiyhtye [Detritus](https://www.facebook.com/dtrts/) esiintyy Ristijärven V
 
 Espoon Barokki La 11.9.2021
 
-Ilmainen yhteislaulutilaisuus Kultturitalolla [Helsinki Beatles Weekendillä](https://beatlesweekend.fi) 20-21.5.2021
+Ilmainen yhteislaulutilaisuus Kultturitalolla [Helsinki Beatles Weekendillä](https://beatlesweekend.fi) 20-21.5.2022
 
 
 
