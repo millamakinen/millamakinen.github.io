@@ -11,12 +11,14 @@ erikoistunut barokkimusiikin tulkitsemiseen.
 Laulaja-kitaristina Mäkinen on esiintynyt jo yli viidentoista vuoden ajan ohjelmistossaan
 erityisesti brasilialaista musiikkia.
 
-Mäkinen työskentelee laulunopettajana Musiikkiopisto Avoniassa, Etelä-Helsingin kansalaisopistossa sekä Cantabile-kuorossa. 
+Mäkinen työskentelee laulunopettajana Taidetöölössä, Etelä-Helsingin kansalaisopistossa sekä Cantabile-kuorossa. 
 
 
 <br/>
 
+Uutta:
 
+Täydennän parhaillani osaamistani joogaopettajakoulutuksessa (RYT200). Tervetuloa [Hengittävä Yin-jooga 75´](https://opistopalvelut.fi/toimela/course.php?l=fi&t=4534) -kurssille Etelä-Helsingin kansalaisopistoon syksyllä 2021. 
 
 
 Seuraavaksi:
