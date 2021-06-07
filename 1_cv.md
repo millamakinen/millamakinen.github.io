@@ -24,9 +24,7 @@ Täydennän parhaillani osaamistani joogaopettajakoulutuksessa (RYT200). Tervetu
 Seuraavaksi:
 
 
-[ΨFM ambient-radiolähetys.](https://helsinkibiennaali.fi/story/psifm/) ΨFM on osa Tuomas A. Laitisen ΨZone-teosta, joka nähdään ensimmäisessä Helsinki Biennaalissa kesällä 2021.
-
-Barokkiyhtye [Detritus](https://www.facebook.com/dtrts/) esiintyy Ristijärven Veisuuvestivaaleilla Su 8.8.2021
+[ΨFM ambient-radiolähetys.](https://helsinkibiennaali.fi/story/psifm/) ΨFM on osa Tuomas A. Laitisen ΨZone-teosta, joka nähdään ensimmäisessä Helsinki Biennaalissa kesällä 2021
 
 Espoon Barokki La 11.9.2021
 
