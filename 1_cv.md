@@ -11,7 +11,7 @@ erikoistunut barokkimusiikin tulkitsemiseen.
 Laulaja-kitaristina Mäkinen on esiintynyt jo yli viidentoista vuoden ajan ohjelmistossaan
 erityisesti brasilialaista musiikkia.
 
-Mäkinen työskentelee laulunopettajana [Oma Laulussa](https://taidetoolo.fi/oma-laulu/) ja [Etelä-Helsingin kansalaisopistossa](https://etko.fi). Täydennän parhaillani osaamistani joogaopettajakoulutuksessa (RYT200). Tervetuloa [Hengittävä yin-jooga 75´](https://opistopalvelut.fi/toimela/course.php?l=fi&t=4534) -kurssille Etelä-Helsingin kansalaisopistoon syksyllä 2021. 
+Mäkinen työskentelee laulunopettajana [Oma Laulussa](https://taidetoolo.fi/oma-laulu/), [Etelä-Helsingin kansalaisopistossa](https://etko.fi) sekä [Cantores Minoreksessa](https://www.cantoresminores.fi/index.html) Täydennän parhaillani osaamistani joogaopettajakoulutuksessa (RYT200). Tervetuloa [Hengittävä yin-jooga 75´](https://opistopalvelut.fi/toimela/course.php?l=fi&t=4534) -kurssille Etelä-Helsingin kansalaisopistoon syksyllä 2021. 
 
 
 <br/>
@@ -21,7 +21,7 @@ Seuraavaksi:
 
 Tuomas A. Laitisen ΨZone-teos [Helsinki Biennaalissa 12.6.–29.8.2021](https://helsinkibiennaali.fi/artist/tuomas-a-laitinen/) 
 
-Espoon Barokki La 11.9.2021
+[Espoon Barokki La 11.9.2021](https://www.espoonbarokki.com/p/eb-sarja.html)
 
 Ilmainen yhteislaulutilaisuus Kultturitalolla [Helsinki Beatles Weekendillä](https://beatlesweekend.fi) 20-21.5.2022
 
