@@ -11,7 +11,9 @@ erikoistunut barokkimusiikin tulkitsemiseen.
 Laulaja-kitaristina Mäkinen on esiintynyt jo yli viidentoista vuoden ajan ohjelmistossaan
 erityisesti brasilialaista musiikkia.
 
-Mäkinen työskentelee laulunopettajana [Oma Laulussa](https://taidetoolo.fi/oma-laulu/), [Etelä-Helsingin kansalaisopistossa](https://etko.fi) sekä [Cantores Minoreksessa](https://www.cantoresminores.fi/index.html) Täydennän parhaillani osaamistani joogaopettajakoulutuksessa (RYT200). Tervetuloa [Hengittävä yin-jooga 75´](https://opistopalvelut.fi/toimela/course.php?l=fi&t=4534) -kurssille Etelä-Helsingin kansalaisopistoon syksyllä 2021. 
+Mäkinen työskentelee laulunopettajana [Oma Laulussa](https://taidetoolo.fi/oma-laulu/), [Etelä-Helsingin kansalaisopistossa](https://etko.fi) sekä [Cantores Minoreksessa](https://www.cantoresminores.fi/index.html) 
+
+Täydennän parhaillani osaamistani joogaopettajakoulutuksessa (RYT200). Tervetuloa [Hengittävä yin-jooga 75´](https://opistopalvelut.fi/toimela/course.php?l=fi&t=4534) -kurssille Etelä-Helsingin kansalaisopistoon syksyllä 2021. 
 
 
 <br/>
