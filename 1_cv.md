@@ -16,8 +16,6 @@ Mäkinen työskentelee laulunopettajana [Oma Laulussa](https://taidetoolo.fi/oma
 Täydennän parhaillani osaamistani joogaopettajakoulutuksessa (RYT200). Tervetuloa [Hengittävä yin-jooga 75´](https://opistopalvelut.fi/toimela/course.php?l=fi&t=4534) -kurssille Etelä-Helsingin kansalaisopistoon syksyllä 2021. 
 
 
-<br/>
-
 
 
 <br/>
