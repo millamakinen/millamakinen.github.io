@@ -19,17 +19,6 @@ Täydennän parhaillani osaamistani joogaopettajakoulutuksessa (RYT200). Tervetu
 <br/>
 
 
-Seuraavaksi:
-
-Tuomas A. Laitisen ΨZone-teos [Helsinki Biennaalissa 12.6.–29.8.2021](https://helsinkibiennaali.fi/artist/tuomas-a-laitinen/) 
-
-[Espoon Barokki La 11.9.2021](https://www.espoonbarokki.com/p/eb-sarja.html)
-
-Ilmainen yhteislaulutilaisuus Kultturitalolla [Helsinki Beatles Weekendillä](https://beatlesweekend.fi) 20-21.5.2022
-
-
-
-
 
 <br/>
 
