@@ -15,8 +15,11 @@ Mäkinen työskentelee laulunopettajana [Oma Laulussa](https://omalaulu.fi), [Et
 
 Täydennän parhaillani osaamistani joogaopettajakoulutuksessa (RYT200). Tervetuloa [Hengittävä yin-jooga 75´](https://opistopalvelut.fi/etko/course.php?l=fi&t=4641) -kurssille Etelä-Helsingin kansalaisopistoon syksyllä 2021. 
 
+Seuraavaksi:
 
+14.5.2022 Naisten salonki, Musiikkitalo, Organo
 
+21.5.2022 [Helsinki Beatles Weekend](https://beatlesweekend.fi/en/)
 
 <br/>
 
