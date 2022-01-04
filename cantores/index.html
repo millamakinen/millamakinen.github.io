@@ -1,0 +1,83 @@
+---
+title: videos
+---
+
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+
+    <meta charset="utf-8">
+    <title>Milla Mäkinen - Sopraano</title>
+    <meta name="description" content="Sopraano - Bossa nova - Laulunopetusta">
+    <meta name="author" content="">
+    <meta name="keywords"
+          content="laulu,laulun opetus,lauluopettaja,laulun opettaja,laulunopetusta,laulaja,barokki,varhaisbarokki,vanha musiikki,teorbi,luuttu,sopraano,soprano,bossa nova,bossanova,samba,choro,trubaduuri,kitara,klassinen laulu,laulutunteja,brasilialainen musiikki,esiintyjä,helsinki">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="https://fonts.googleapis.com/css?family=Cousine&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Cutive+Mono&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="/css/main.css">
+
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="apple-touch-icon-57x57.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-icon-114x114.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-icon-72x72.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="apple-touch-icon-144x144.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="apple-touch-icon-60x60.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="apple-touch-icon-120x120.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="apple-touch-icon-76x76.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="apple-touch-icon-152x152.png"/>
+    <link rel="icon" type="image/png" href="/favicon-196x196.png" sizes="196x196"/>
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96"/>
+    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32"/>
+    <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16"/>
+    <link rel="icon" type="image/png" href="/favicon-128.png" sizes="128x128"/>
+    <meta name="application-name" content="&nbsp;"/>
+    <meta name="msapplication-TileColor" content="#FFFFFF"/>
+    <meta name="msapplication-TileImage" content="mstile-144x144.png"/>
+    <meta name="msapplication-square70x70logo" content="mstile-70x70.png"/>
+    <meta name="msapplication-square150x150logo" content="mstile-150x150.png"/>
+    <meta name="msapplication-wide310x150logo" content="mstile-310x150.png"/>
+    <meta name="msapplication-square310x310logo" content="mstile-310x310.png"/>
+
+</head>
+<body style="background-color: #e8e8e8;">
+<h1 style="text-align: center">Cantores Minores</h1>
+
+{% assign videos = '
+
+
+
+https://youtu.be/lP42s-3SuOU
+https://youtu.be/O6IK811_69k
+https://youtu.be/qRV0ZmQysfU
+https://youtu.be/oKC6QNgDJCY
+https://youtu.be/nLkf1aPk4wo
+https://youtu.be/DydGXAnqK94
+https://youtu.be/vL5-6Xaxpzc
+https://youtu.be/ZtdSXLlcxYw
+
+
+
+
+' | split: ' ' %}
+
+
+{% for item in videos %}
+
+<div style="text-align: center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/{{videoId}}" title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+            style="margin: 5% 0 5% 0; box-shadow: rgb(51, 51, 51) 0px 0px 4px"
+    ></iframe>
+</div>
+{% endfor %}
+
+</body>
+</html>
+
+
+
