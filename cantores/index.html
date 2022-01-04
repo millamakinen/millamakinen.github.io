@@ -48,7 +48,6 @@ title: videos
 {% assign videos = '
 
 
-
 https://youtu.be/lP42s-3SuOU
 https://youtu.be/O6IK811_69k
 https://youtu.be/qRV0ZmQysfU
@@ -59,19 +58,17 @@ https://youtu.be/vL5-6Xaxpzc
 https://youtu.be/ZtdSXLlcxYw
 
 
-
-
 ' | split: ' ' %}
 
 
 {% for item in videos %}
-
-<div style="text-align: center;">
+{% assign videoId = item | split: '/' | last %}
+<div class="iframeVideo">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/{{videoId}}" title="YouTube video player"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowfullscreen
-            style="margin: 5% 0 5% 0; box-shadow: rgb(51, 51, 51) 0px 0px 4px"
+            style="margin: 5% 0 5% 0; box-shadow: rgb(51, 51, 51) 0px 0px 4px;"
     ></iframe>
 </div>
 {% endfor %}

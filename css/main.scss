@@ -257,3 +257,23 @@ h3 {
 		width: 80%;
 	}
 }
+
+
+.iframeVideo {
+    text-align: center;
+}
+@media (max-width: 980px) {
+    .iframeVideo {
+        text-align: inherit;
+        height: 0px;
+        padding-top: 25px;
+        padding-bottom: 56.2%;
+        position: relative;
+        margin-bottom: 25px;
+    }
+    .iframeVideo iframe {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+    }
+}
