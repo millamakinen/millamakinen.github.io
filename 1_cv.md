@@ -12,8 +12,7 @@ Laulaja-kitaristina Mäkinen on esiintynyt jo yli viidentoista vuoden ajan ohjel
 erityisesti brasilialaista musiikkia.
 
 Mäkinen työskentelee laulunopettajana [Oma Laulussa](https://omalaulu.fi), [Etelä-Helsingin kansalaisopistossa](https://etko.fi) sekä [Cantores Minoreksessa](https://www.cantoresminores.fi/index.html). Yksityisiä laulutunteja voit varata [täältä](https://holvi.com/shop/millamakinen/).
-
-Täydennän parhaillani osaamistani joogaopettajakoulutuksessa (RYT200). Tervetuloa [Hengittävä yin-jooga 75´](https://opistopalvelut.fi/etko/course.php?l=fi&t=4641) -kurssille Etelä-Helsingin kansalaisopistoon syksyllä 2021. 
+Mäkinen toimii myös joogaopettajana(RYT200) [Hengittävä yin-jooga 75´](https://opistopalvelut.fi/etko/course.php?l=fi&t=4641) -kurssilla Etelä-Helsingin kansalaisopistossa.
 
 Tulossa:
 
