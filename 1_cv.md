@@ -18,7 +18,9 @@ Tulossa:
 
 3.4.2022 klo. 16 Naisten salonki, Huopalahden kirkko
 
-14.5.2022 klo. 16 Naisten salonki, Musiikkitalo, Organo
+27.4.2022 klo. 19 Naisten salonki, Kulosaaren kirkko
+
+14.5.2022 klo. 18 Naisten salonki, Musiikkitalo, Organo
 
 21.5.2022 klo. 11 [P.S. I Love You - Beatles-messu, Kallion kirkko](https://www.facebook.com/events/528577571782887?ref=newsfeed)
 
