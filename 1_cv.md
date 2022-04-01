@@ -20,7 +20,7 @@ Tulossa:
 
 27.4.2022 klo. 19 [Naisten salonki, Kulosaaren kirkko](https://www.helsinginseurakunnat.fi/kulosaarenkirkko/tapahtumat/naistensalonki-konserttikulosaarenkirkossa)
 
-14.5.2022 klo. 18 Naisten salonki, Musiikkitalo, Organo
+14.5.2022 klo. 18 [Naisten salonki, Musiikkitalo, Organo](https://www.uniarts.fi/tapahtumat/jenna-ristila-naisten-salonki/)
 
 21.5.2022 klo. 11 [P.S. I Love You - Beatles-messu, Kallion kirkko](https://www.facebook.com/events/528577571782887?ref=newsfeed)
 
