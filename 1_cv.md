@@ -18,7 +18,7 @@ Tulossa:
 
 3.4.2022 klo. 16 [Naisten salonki, Huopalahden kirkko](https://www.helsinginseurakunnat.fi/huopalahdenkirkko/tapahtumat/konsertti_3)
 
-27.4.2022 klo. 19 Naisten salonki, Kulosaaren kirkko
+27.4.2022 klo. 19 [Naisten salonki, Kulosaaren kirkko](https://www.helsinginseurakunnat.fi/kulosaarenkirkko/tapahtumat/naistensalonki-konserttikulosaarenkirkossa)
 
 14.5.2022 klo. 18 Naisten salonki, Musiikkitalo, Organo
 
