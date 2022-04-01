@@ -16,7 +16,7 @@ Mäkinen toimii myös joogaopettajana(RYT200) [Hengittävä yin-jooga 75´](http
 
 Tulossa:
 
-3.4.2022 klo. 16 Naisten salonki, Huopalahden kirkko
+3.4.2022 klo. 16 [Naisten salonki, Huopalahden kirkko](https://www.helsinginseurakunnat.fi/huopalahdenkirkko/tapahtumat/konsertti_3)
 
 27.4.2022 klo. 19 Naisten salonki, Kulosaaren kirkko
 
