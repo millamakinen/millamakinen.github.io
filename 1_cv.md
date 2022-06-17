@@ -4,17 +4,28 @@ title: Biografia
 
 
 
-Sopraano Milla Mäkinen on valmistunut musiikin maisteriksi Sibelius-Akatemiasta
-laulumusiikin osastolta suuntautumisvaihtoehtonaan laulupedagogiikka. Mäkinen on
-erikoistunut barokkimusiikin tulkitsemiseen.
+Milla Mäkinen on valmistunut musiikin maisteriksi Sibelius-Akatemiasta
+laulumusiikin osastolta suuntautumisvaihtoehtonaan laulupedagogiikka. Mäkinen on myös joogaopettaja (RYT200).
 
 Laulaja-kitaristina Mäkinen on esiintynyt jo yli viidentoista vuoden ajan ohjelmistossaan
-erityisesti brasilialaista musiikkia.
+brasilialaista musiikkia. Klassisena laulajana hän esiintyy erityisesti barokkimusiikin ja nykymusiikin parissa.
 
-Mäkinen työskentelee laulunopettajana [Oma Laulussa](https://omalaulu.fi), [Etelä-Helsingin kansalaisopistossa](https://etko.fi) sekä [Cantores Minoreksessa](https://www.cantoresminores.fi/index.html). Yksityisiä laulutunteja voit varata [täältä](https://holvi.com/shop/millamakinen/).
-Mäkinen toimii myös joogaopettajana(RYT200) [Hengittävä yin-jooga 75´](https://opistopalvelut.fi/etko/course.php?l=fi&t=4641) -kurssilla Etelä-Helsingin kansalaisopistossa.
+Mäkinen työskentelee laulunopettajana [Oma Laulussa](https://omalaulu.fi), [Etelä-Helsingin kansalaisopistossa](https://etko.fi) sekä ottaa vastaan yksityisoppilaita Helsingin Kruunuhaassa. Laulutunteja voit varata [täältä](https://holvi.com/shop/millamakinen/).
 
-Tulossa:
+
+Seuraavaksi:
+
+[Flow-Festival 12.-14.8.2022 - TAL & Sapiuz Ensemble](https://www.flowfestival.com/en/artists/tal-sapiduz-ensemble/)
+
+[Beatles -risteily 29.9.2022 - Beatlesin Naiset](https://www.vikingline.fi/valitse-matka/risteilyt/helsinki-tukholma/beatles-risteily/)
+
+[Hengittävä yin-jooga -kurssi Etelä-Helsingin kansalaisopistossa alkaa syksyllä!](https://opistopalvelut.fi/etko/course.php?l=fi&t=4739)
+
+
+
+<br/>
+
+{% comment %}
 
 3.4.2022 klo. 16 [Naisten salonki, Huopalahden kirkko](https://www.helsinginseurakunnat.fi/huopalahdenkirkko/tapahtumat/konsertti_3)
 
@@ -25,10 +36,6 @@ Tulossa:
 21.5.2022 klo. 11 [P.S. I Love You - Beatles-messu, Kallion kirkko](https://www.facebook.com/events/528577571782887?ref=newsfeed)
 
 21.5.2022 klo. 16 [Beatles-yhteislaulua - All Together Now, Kulttuuritalo](https://www.facebook.com/events/596884391083602/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22search_results%22%2C%22surface%22%3A%22search%22%7D]%2C%22ref_notif_type%22%3Anull%7D)
-
-<br/>
-
-{% comment %}
 
 [Radiojumalanpalvelus Kallion kirkosta, Su 15.12.2019 klo. 10](https://areena.yle.fi/1-50334029)
 
