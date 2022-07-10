@@ -15,6 +15,8 @@ Mäkinen työskentelee laulunopettajana [Oma Laulussa](https://omalaulu.fi), [Et
 
 Seuraavaksi:
 
+Hyvin soi Asikkalassa 14.7.2022 - Bossa novaa Kanavan Kunkussa klo. 18.30 alkaen
+
 [Flow Festival 12.-14.8.2022 - TAL & Sapiuz Ensemble](https://www.flowfestival.com/en/artists/tal-sapiduz-ensemble/)
 
 [Beatles -risteily 29.9.2022 - Beatlesin Naiset](https://www.vikingline.fi/valitse-matka/risteilyt/helsinki-tukholma/beatles-risteily/)
