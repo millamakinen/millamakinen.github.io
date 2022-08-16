@@ -19,7 +19,7 @@ Beatles -risteily syyskuussa 2022 - [Beatlesin Naiset](https://www.vikingline.fi
 
 [Hengittävä yin-jooga](https://opistopalvelut.fi/etko/course.php?l=fi&t=4739) Etelä-Helsingin kansalaisopistossa
 
-Tule mukaan [Oma Laulu -onlinepalveluun](https://omalaulu.fi)!
+Tule mukaan [Oma Laulu -onlinepalveluun](https://taidetoolo.fi/kurssit/laulu/oma-laulu/)!
 
 [Laulun alkeiskurssi](https://taidetoolo.fi/kurssit/laulu/laulun-alkeiskurssi/) alkaa syyskuussa 2022. 
 
