@@ -15,15 +15,15 @@ Laulutunteja voit varata [täältä](https://holvi.com/shop/millamakinen/). Opet
 
 Tulossa:
 
-[Beatles -risteily syyskuussa 2022 - Beatlesin Naiset](https://www.vikingline.fi/valitse-matka/risteilyt/helsinki-tukholma/beatles-risteily/)
+Beatles -risteily syyskuussa 2022 - [Beatlesin Naiset](https://www.vikingline.fi/valitse-matka/risteilyt/helsinki-tukholma/beatles-risteily/)
 
-[Hengittävä yin-jooga Etelä-Helsingin kansalaisopistossa](https://opistopalvelut.fi/etko/course.php?l=fi&t=4739)
+[Hengittävä yin-jooga](https://opistopalvelut.fi/etko/course.php?l=fi&t=4739) Etelä-Helsingin kansalaisopistossa
 
 Tule mukaan [Oma Laulu -onlinepalveluun](https://omalaulu.fi)!
 
 [Laulun alkeiskurssi](https://taidetoolo.fi/kurssit/laulu/laulun-alkeiskurssi/) alkaa syyskuussa 2022. 
 
-[Lauletaan Abbaa!](https://taidetoolo.fi/viikonloppukurssit/lauletaan-abbaa/) -viikonloppukurssi lokakuussa 2022!(https://taidetoolo.fi/viikonloppukurssit/lauletaan-abbaa/)
+[Lauletaan Abbaa!](https://taidetoolo.fi/viikonloppukurssit/lauletaan-abbaa/) -viikonloppukurssi lokakuussa 2022!
 
 
 
