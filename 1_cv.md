@@ -13,17 +13,18 @@ brasilialaista musiikkia. Klassisena laulajana hän esiintyy erityisesti barokki
 Laulutunteja voit varata [täältä](https://holvi.com/shop/millamakinen/). Opetuspaikkana toimii Välikatu 2 Helsingin Kruununhaassa.
 
 
+
 Tulossa:
 
 Beatles -risteily syyskuussa 2022 - [Beatlesin Naiset](https://www.vikingline.fi/valitse-matka/risteilyt/helsinki-tukholma/beatles-risteily/)
 
 [Hengittävä yin-jooga](https://opistopalvelut.fi/etko/course.php?l=fi&t=4739) Etelä-Helsingin kansalaisopistossa
 
-Tule mukaan [Oma Laulu -onlinepalveluun](https://taidetoolo.fi/kurssit/laulu/oma-laulu/)!
+Tule mukaan [Oma Laulu -onlinepalveluun](https://taidetoolo.fi/kurssit/laulu/oma-laulu/).
 
 [Laulun alkeiskurssi](https://taidetoolo.fi/kurssit/laulu/laulun-alkeiskurssi/) alkaa syyskuussa 2022. 
 
-[Lauletaan Abbaa!](https://taidetoolo.fi/viikonloppukurssit/lauletaan-abbaa/) -viikonloppukurssi lokakuussa 2022!
+[Lauletaan Abbaa!](https://taidetoolo.fi/viikonloppukurssit/lauletaan-abbaa/) -viikonloppukurssi lokakuussa 2022.
 
 
 
