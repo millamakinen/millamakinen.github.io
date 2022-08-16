@@ -10,24 +10,31 @@ laulumusiikin osastolta suuntautumisvaihtoehtonaan laulupedagogiikka. Mäkinen o
 Laulaja-kitaristina Mäkinen on esiintynyt jo yli viidentoista vuoden ajan ohjelmistossaan
 brasilialaista musiikkia. Klassisena laulajana hän esiintyy erityisesti barokkimusiikin ja nykymusiikin parissa.
 
-Mäkinen työskentelee laulunopettajana [Oma Laulussa](https://omalaulu.fi), [Etelä-Helsingin kansalaisopistossa](https://etko.fi) sekä ottaa vastaan yksityisoppilaita Helsingin Kruununhaassa. Laulutunteja voit varata [täältä](https://holvi.com/shop/millamakinen/).
+Laulutunteja voit varata [täältä](https://holvi.com/shop/millamakinen/). Opetuspaikkana toimii Välikatu 2 Helsingin Kruununhaassa.
 
 
-Seuraavaksi:
+Tulossa:
 
-Hyvin soi Asikkalassa 14.7.2022 - Bossa novaa Kanavan Kunkussa klo. 18.30 alkaen
+[Beatles -risteily syyskuussa 2022 - Beatlesin Naiset](https://www.vikingline.fi/valitse-matka/risteilyt/helsinki-tukholma/beatles-risteily/)
 
-[Flow Festival 12.-14.8.2022 - TAL & Sapiuz Ensemble](https://www.flowfestival.com/en/artists/tal-sapiduz-ensemble/)
+[Hengittävä yin-jooga Etelä-Helsingin kansalaisopistossa](https://opistopalvelut.fi/etko/course.php?l=fi&t=4739)
 
-[Beatles -risteily 29.9.2022 - Beatlesin Naiset](https://www.vikingline.fi/valitse-matka/risteilyt/helsinki-tukholma/beatles-risteily/)
+Tule mukaan [Oma Laulu -onlinepalveluun](https://omalaulu.fi)!
 
-[Hengittävä yin-jooga -kurssi Etelä-Helsingin kansalaisopistossa alkaa syksyllä!](https://opistopalvelut.fi/etko/course.php?l=fi&t=4739)
+[Laulun alkeiskurssi](https://taidetoolo.fi/kurssit/laulu/laulun-alkeiskurssi/) alkaa syyskuussa 2022. 
+
+[Lauletaan Abbaa!](https://taidetoolo.fi/viikonloppukurssit/lauletaan-abbaa/) -viikonloppukurssi lokakuussa 2022!(https://taidetoolo.fi/viikonloppukurssit/lauletaan-abbaa/)
 
 
 
 <br/>
 
 {% comment %}
+
+yvin soi Asikkalassa 14.7.2022 - Bossa novaa Kanavan Kunkussa klo. 18.30 alkaen
+
+[Flow Festival 12.-14.8.2022 - TAL & Sapiuz Ensemble](https://www.flowfestival.com/en/artists/tal-sapiduz-ensemble/)
+
 
 3.4.2022 klo. 16 [Naisten salonki, Huopalahden kirkko](https://www.helsinginseurakunnat.fi/huopalahdenkirkko/tapahtumat/konsertti_3)
 
