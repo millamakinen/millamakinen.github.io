@@ -16,6 +16,8 @@ Laulutunteja voit varata [täältä](https://holvi.com/shop/millamakinen/). Opet
 
 Tulossa:
 
+[Yin-Joogaa ja klassista kitaramusiikkia 2.9.2022 klo 18-19](https://holvi.com/shop/millamakinen/product/fb15bedc847b3e212042caf4ee516285/?fbclid=IwAR3JK3oE122LTxxKnsGKwLps_IV3WG37gYxCsKDYAIK-r6XjmXGG2PR8gi0)
+
 Beatles -risteily syyskuussa 2022 - [Beatlesin Naiset](https://www.vikingline.fi/valitse-matka/risteilyt/helsinki-tukholma/beatles-risteily/)
 
 [Hengittävä yin-jooga](https://opistopalvelut.fi/etko/course.php?l=fi&t=4739) Etelä-Helsingin kansalaisopistossa
