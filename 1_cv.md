@@ -16,8 +16,6 @@ Laulutunteja voit varata [täältä](https://holvi.com/shop/millamakinen/section
 
 Tulossa:
 
-[Yin-Joogaa ja bossa novaa 9.9.2022 klo 18-19](https://holvi.com/shop/millamakinen/product/f39430dd85e3cb15a06e04b7ef1faf1e/)
-
 Beatles -risteily syyskuussa 2022 - [Beatlesin Naiset](https://www.vikingline.fi/valitse-matka/risteilyt/helsinki-tukholma/beatles-risteily/)
 
 [Lauletaan Abbaa!](https://taidetoolo.fi/viikonloppukurssit/lauletaan-abbaa/) -viikonloppukurssi lokakuussa 2022.
