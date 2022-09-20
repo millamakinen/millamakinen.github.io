@@ -18,7 +18,7 @@ Tulossa:
 
 Beatles-risteily syyskuussa 2022 - [Beatlesin Naiset](https://www.vikingline.fi/valitse-matka/risteilyt/helsinki-tukholma/beatles-risteily/)
 
-Yin-joogaa ja bosssa novaa [Pe 14.10.2022 klo 18-19](https://holvi.com/shop/millamakinen/product/231e9b1e940e653d925013a6e6727843/)
+Yin-joogaa ja bossa novaa [Pe 14.10.2022 klo 18-19](https://holvi.com/shop/millamakinen/product/231e9b1e940e653d925013a6e6727843/)
 
 Yin-joogaa ja bossa novaa [Pe 28.10.2022 klo 18-19](https://holvi.com/shop/millamakinen/product/d5180f168b63d65ff09c4c9b7b566058/)
 
