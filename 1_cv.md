@@ -16,19 +16,11 @@ Laulutunteja voit varata [täältä](https://holvi.com/shop/millamakinen/section
 
 Tulossa:
 
-Beatles-risteily syyskuussa 2022 - [Beatlesin Naiset](https://www.vikingline.fi/valitse-matka/risteilyt/helsinki-tukholma/beatles-risteily/)
-
-Yin-joogaa ja bossa novaa [Pe 14.10.2022 klo 18-19](https://holvi.com/shop/millamakinen/product/231e9b1e940e653d925013a6e6727843/)
-
-Yin-joogaa ja bossa novaa [Pe 28.10.2022 klo 18-19](https://holvi.com/shop/millamakinen/product/d5180f168b63d65ff09c4c9b7b566058/)
-
-[Lauletaan Abbaa!](https://taidetoolo.fi/viikonloppukurssit/lauletaan-abbaa/) -viikonloppukurssi lokakuussa 2022
-
 Isänpäivän Beatles-konsertti Su 13.11.2022 [klo 11-11.30](https://holvi.com/shop/millamakinen/product/76d13cbc0bd28a3c27dc746156173a59/) ja [klo 13-13.30](https://holvi.com/shop/millamakinen/product/7cb4d430040e566acbb4814a0f65869c/)
 
-Joululaulukurssi [28.11-19.12.2022](https://taidetoolo.fi/kurssit/laulu/joululaulukurssi/)
-
 Joulumusiikkia joogamatolla [Ma 19.12.2022](https://holvi.com/shop/millamakinen/product/3b333160d7336284f06c54934a23fe19/)
+
+
 
 
 
