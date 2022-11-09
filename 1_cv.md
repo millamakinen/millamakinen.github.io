@@ -22,7 +22,7 @@ Joulumusiikkia joogamatolla [Ti 20.12.2022](https://holvi.com/shop/millamakinen/
 
 Beatles-bändikisan tuomarointia Malmitalolla 21.1.2023
 
-Purcellin musiikkia Turun Betel-kirkossa 3.9.2020
+Purcellin musiikkia Turun Betel-kirkossa 3.9.2023
 
 
 
