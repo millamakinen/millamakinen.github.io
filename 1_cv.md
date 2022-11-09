@@ -18,7 +18,11 @@ Tulossa:
 
 Bachin kantaatit 61 ja 142 Olarin kirkossa 18.12.2022 klo 18
 
-Joulumusiikkia joogamatolla [Ma 19.12.2022](https://holvi.com/shop/millamakinen/product/3b333160d7336284f06c54934a23fe19/)
+Joulumusiikkia joogamatolla [Ti 20.12.2022](https://holvi.com/shop/millamakinen/product/3b333160d7336284f06c54934a23fe19/)
+
+Beatles-bändikisan tuomarointia Malmitalolla 21.1.2023
+
+Purcellin musiikkia Turun Betel-kirkossa 3.9.2020
 
 
 
