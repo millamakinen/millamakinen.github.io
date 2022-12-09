@@ -10,7 +10,7 @@ laulumusiikin osastolta suuntautumisvaihtoehtonaan laulupedagogiikka. Mäkinen o
 Laulaja-kitaristina Mäkinen on esiintynyt jo yli viidentoista vuoden ajan ohjelmistossaan
 brasilialaista musiikkia. Klassisena laulajana hän esiintyy erityisesti barokkimusiikin ja nykymusiikin parissa.
 
-Laulutunteja voit varata [täältä](https://holvi.com/shop/millamakinen/section/laulutunnit/). Opetuspaikkana toimii Välikatu 2 Helsingin Kruununhaassa.
+Yksityisiä laulutunteja voit varata [täältä](https://holvi.com/shop/millamakinen/section/laulutunnit/). Laulun alkeet -ryhmäopetuksen löydät [täältä](https://taidetoolo.fi/kurssit/laulu/tammikuun-laulukurssi/). Opetuspaikkana toimii Välikatu 2 Helsingin Kruununhaassa.
 
 
 
@@ -20,7 +20,11 @@ Bachin kantaatit 61 ja 142 Olarin kirkossa 18.12.2022 klo 18
 
 Joulumusiikkia joogamatolla [Ti 20.12.2022](https://holvi.com/shop/millamakinen/product/3b333160d7336284f06c54934a23fe19/)
 
+Musiikki ja sukupuoli -tutkimuspäivät Taideyliopistolla [23.1.2023](https://www.uniarts.fi/dokumentit/abstraktit-musiikki-ja-sukupuoli-tutkimuspaiville-23-1-2023/)
+
 Beatles-bändikisan tuomarointia Malmitalolla 21.1.2023
+
+Helsinki Beatles Weekend 12.-13.5.2023
 
 Purcellin musiikkia Turun Betel-kirkossa 3.9.2023
 
