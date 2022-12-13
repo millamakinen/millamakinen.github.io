@@ -10,7 +10,7 @@ laulumusiikin osastolta suuntautumisvaihtoehtonaan laulupedagogiikka. Mäkinen o
 Laulaja-kitaristina Mäkinen on esiintynyt jo yli viidentoista vuoden ajan ohjelmistossaan
 brasilialaista musiikkia. Klassisena laulajana hän esiintyy erityisesti barokkimusiikin ja nykymusiikin parissa.
 
-Yksityisiä laulutunteja voit varata [täältä](https://holvi.com/shop/millamakinen/section/laulutunnit/). Laulun alkeet -ryhmäopetuksen löydät [täältä](https://taidetoolo.fi/kurssit/laulu/tammikuun-laulukurssi/). Opetuspaikkana toimii Välikatu 2 Helsingin Kruununhaassa.
+Yksityisiä laulutunteja voit varata [täältä](https://holvi.com/shop/millamakinen/section/laulutunnit/). Laulun alkeet -ryhmäopetuksen löydät [täältä](https://taidetoolo.fi/kurssit/laulu/tammikuun-laulukurssi/). Lahjakortteja löytyy [täältä](https://holvi.com/shop/millamakinen/section/lahjakortit/). Opetuspaikkana toimii Välikatu 2 Helsingin Kruununhaassa.
 
 
 
