@@ -16,15 +16,11 @@ Yksityisiä laulutunteja voit varata [täältä](https://holvi.com/shop/millamak
 
 Tulossa:
 
-Bachin kantaatit 61 ja 142 Olarin kirkossa 18.12.2022 klo 18
-
 Joulumusiikkia joogamatolla [Ti 20.12.2022](https://holvi.com/shop/millamakinen/product/3b333160d7336284f06c54934a23fe19/)
 
-Musiikki ja sukupuoli -tutkimuspäivät Taideyliopistolla [23.1.2023](https://www.uniarts.fi/dokumentit/abstraktit-musiikki-ja-sukupuoli-tutkimuspaiville-23-1-2023/)
+Beatles-bändikisan tuomarointia Malmitalolla [21.1.2023](https://beatlesweekend.fi/bandikisa-2023/)
 
-Beatles-bändikisan tuomarointia Malmitalolla 21.1.2023
-
-Helsinki Beatles Weekend 12.-13.5.2023
+Helsinki Beatles Weekend [12.-13.5.2023](https://beatlesweekend.fi/ohjelma/)
 
 Purcellin musiikkia Turun Betel-kirkossa 3.9.2023
 
