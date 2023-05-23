@@ -10,16 +10,13 @@ laulumusiikin osastolta suuntautumisvaihtoehtonaan laulupedagogiikka. Mäkinen o
 Laulaja-kitaristina Mäkinen on esiintynyt jo yli viidentoista vuoden ajan ohjelmistossaan
 brasilialaista musiikkia. Klassisena laulajana hän esiintyy erityisesti barokkimusiikin ja nykymusiikin parissa.
 
-Yksityisiä laulutunteja voit varata [täältä](https://holvi.com/shop/millamakinen/section/laulutunnit/). Opetuspaikkana toimii Välikatu 2 Helsingin Kruununhaassa. 
+Yksityisiä laulutunteja voit varata [täältä](https://holvi.com/shop/millamakinen/section/laulutunnit/). Laulun kesäkurssit löydät [täältä](https://holvi.com/shop/millamakinen/section/laulutunnit/kesakurssit/). Opetuspaikkana toimii Välikatu 2 Helsingin Kruununhaassa. 
 
-Yin Yoga & Bossa Nova -tilaustunnit löydät [täältä](https://holvi.com/shop/millamakinen/section/lahjakortit/). 
-
-
-Seuraavaksi kalenterissani:
-
-Helsinki Beatles Weekend [12.-13.5.2023](https://beatlesweekend.fi/ohjelma/)
+Yin Yoga & Bossa Nova -tilaustunnit löydät [täältä](https://holvi.com/shop/millamakinen/section/lahjakortit/).
 
 Taidetöölön Lauletaan iskelmää! -viikonloppukurssi [17.-18.6.2023](https://taidetoolo.fi/viikonloppukurssit/lauletaan-iskelmaa/)
+
+Yin Yoga & Bossa Nova [26.6.2023 klo 18.30-20](https://holvi.com/shop/millamakinen/product/863dc82c448b889044ca9b8f4a32545b/)
 
 Magnesia Festival [28.-30.7.2023](https://magnesiafestival.com/)
 
