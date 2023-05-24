@@ -22,7 +22,7 @@ Yin Yoga & Bossa Nova [26.6.2023 klo 18.30-20](https://holvi.com/shop/millamakin
 
 Magnesia Festival [28.-30.7.2023](https://magnesiafestival.com/)
 
-Italialaista varhaisbarokkia Hämeenlinnassa yhdessä Tuohi-yhtyeen kanssa 4.-6.8.2023
+Italian tuulia Vanajan kirkossa [5.8.2023 klo 18](https://www.kirstiapajalahti.com/elokuunbarokki)
 
 Purcellin musiikkia Turun Betel-kirkossa 3.9.2023 yhdessä cambalisti Julia Tammisen kanssa
 
