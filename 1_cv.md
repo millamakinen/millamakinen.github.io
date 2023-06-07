@@ -24,7 +24,7 @@ Magnesia Festival [28.-30.7.2023](https://magnesiafestival.com/)
 
 Italian tuulia Vanajan kirkossa [5.8.2023 klo 18](https://www.kirstiapajalahti.com/elokuunbarokki)
 
-Purcellin musiikkia Turun Betel-kirkossa 3.9.2023 yhdessä cambalisti Julia Tammisen kanssa
+Purcellin musiikkia Turun Betel-kirkossa 3.9.2023 
 
 Beatles-risteily 14.-16.9.2023
 
