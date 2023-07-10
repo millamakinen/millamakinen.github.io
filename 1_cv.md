@@ -16,15 +16,13 @@ brasilialaista musiikkia. Klassisena laulajana hän esiintyy erityisesti barokki
 
 [Elämysjoogatunnit](https://holvi.com/shop/millamakinen/section/joogatunnit/)
 
-Taidetöölön Lauletaan iskelmää! -viikonloppukurssi [17.-18.6.2023](https://taidetoolo.fi/viikonloppukurssit/lauletaan-iskelmaa/)
-
 Magnesia Festival [28.-30.7.2023](https://magnesiafestival.com/)
 
 Italian tuulia Vanajan kirkossa [5.8.2023 klo 18](https://www.kirstiapajalahti.com/elokuunbarokki)
 
-Purcellin musiikkia Turun Betel-kirkossa 3.9.2023 
+Purcellin musiikkia Turun Betel-kirkossa [3.9.2023](https://turunvanhamusiikki.fi/aboastra/)
 
-Beatles-risteily 14.-16.9.2023
+Beatles-risteily [14.-16.9.2023](https://www.vikingline.fi/valitse-matka/risteilyt/helsinki-tukholma/beatles-risteily/)
 
 
 
