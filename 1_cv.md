@@ -14,7 +14,7 @@ brasilialaista musiikkia. Klassisena laulajana hän esiintyy erityisesti barokki
 
 [Joogatunnit](https://holvi.com/shop/millamakinen/section/joogatunnit/)
 
-[Helsinki Beatles Weekend](https://www.beatlesweekend.fi/festivaaliohjelma/)
+[From Rosy Bowers - Henry Purcellin musiikkitarinoita Sipoon Vanhassa kirkossa 25.7.2024 klo 19](https://www.sipoonsuomalainenseurakunta.fi/tapahtumat/2024-07-25/kesakonsertti)
 
 
 
