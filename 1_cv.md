@@ -14,9 +14,7 @@ brasilialaista musiikkia. Klassisena laulajana hän esiintyy erityisesti barokki
 
 [Joogatunnit](https://holvi.com/shop/millamakinen/section/joogatunnit/)
 
-[From Rosy Bowers - Henry Purcellin musiikkitarinoita Sipoon Vanhassa kirkossa 25.7.2024 klo 19](https://www.sipoonsuomalainenseurakunta.fi/tapahtumat/2024-07-25/kesakonsertti)
-
-
+[Restoratiivinen jooga & jooganidra 13.10.2024 klo 18(https://holvi.com/shop/millamakinen/product/94eb4a2f470226bed5e2366a40c1e63a/)
 
 
 
