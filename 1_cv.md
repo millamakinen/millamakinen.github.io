@@ -14,7 +14,7 @@ brasilialaista musiikkia. Klassisena laulajana hän esiintyy erityisesti barokki
 
 [Joogatunnit](https://holvi.com/shop/millamakinen/section/joogatunnit/)
 
-[Restoratiivinen jooga & jooganidra 13.10.2024 klo 18(https://holvi.com/shop/millamakinen/product/94eb4a2f470226bed5e2366a40c1e63a/)
+[Restoratiivinen jooga & jooganidra 13.10.2024 klo 18](https://holvi.com/shop/millamakinen/product/94eb4a2f470226bed5e2366a40c1e63a/)
 
 
 
