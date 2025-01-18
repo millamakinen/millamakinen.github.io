@@ -14,7 +14,7 @@ brasilialaista musiikkia. Klassisena laulajana hän esiintyy erityisesti barokki
 
 [Joogatunnit](https://holvi.com/shop/millamakinen/section/joogatunnit/)
 
-[Varaa muusikon yksilö- tai ryhmäsensovalmennus]([https://holvi.com/shop/millamakinen/product/94eb4a2f470226bed5e2366a40c1e63a/](https://holvi.com/shop/millamakinen/section/sensovalmennus/))
+[Varaa muusikon yksilö- tai ryhmäsensovalmennus](https://holvi.com/shop/millamakinen/section/sensovalmennus/)
 
 
 
