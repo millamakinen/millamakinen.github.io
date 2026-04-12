@@ -1,13 +1,6 @@
-# Site settings
-title: ""
-description: ""
+title: Milla Mäkinen — Voice Teacher
+description: Brain-based voice teaching built on functional neuroscience and motor preferences in singing.
 baseurl: ""
 url: ""
-name: ""
-
-# Build settings
 markdown: kramdown
 permalink: pretty
-sass:
-        sass_dir: _sass
-        style: :compressed

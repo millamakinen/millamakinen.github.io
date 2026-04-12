@@ -1,0 +1,231 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Arsenal", sans-serif;
+  color: #2c2c2c;
+  background: #e2e8f8;
+  line-height: 1.7;
+}
+
+/* Navigation */
+nav {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1.5rem 1.5rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+nav .site-name {
+  font-size: 1.15rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #2c2c2c;
+  text-decoration: none;
+}
+
+.nav-links {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.nav-links a {
+  color: #4a4a5a;
+  text-decoration: none;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  transition: color 0.2s;
+}
+
+.nav-links a:hover {
+  color: #1a1a2a;
+}
+
+/* Main content */
+main {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 1.5rem 3rem;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  margin-bottom: 1.2rem;
+  color: #1a1a2a;
+  line-height: 1.3;
+}
+
+h2 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-top: 2.5rem;
+  margin-bottom: 0.8rem;
+  color: #1a1a2a;
+}
+
+h3 {
+  font-size: 1.15rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-top: 1.8rem;
+  margin-bottom: 0.5rem;
+  color: #1a1a2a;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+a {
+  color: #3a4a6b;
+}
+
+a:hover {
+  color: #1a1a2a;
+}
+
+ul, ol {
+  margin-bottom: 1rem;
+  padding-left: 1.5rem;
+}
+
+li {
+  margin-bottom: 0.4rem;
+}
+
+/* Hero section — full-width image with text overlay */
+.hero {
+  position: relative;
+  margin-bottom: 1rem;
+}
+
+.hero-image {
+  display: block;
+  width: 100%;
+  max-width: 900px;
+  height: auto;
+  border-radius: 0;
+}
+
+.hero-text {
+  padding: 2rem 0 1.5rem;
+}
+
+.hero-text h1 {
+  font-size: 2.6rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  margin-bottom: 0.6rem;
+  color: #1a1a2a;
+}
+
+.hero-text p {
+  font-size: 1.15rem;
+  color: #3a3a4a;
+  max-width: 600px;
+}
+
+/* Content area below hero */
+main > p,
+main > ul,
+main > ol,
+main > h2,
+main > h3,
+main > .highlight-box {
+  max-width: 700px;
+}
+
+/* Highlight box */
+.highlight-box {
+  background: #d5dbee;
+  border-left: 3px solid #3a4a6b;
+  padding: 1.2rem 1.5rem;
+  margin: 1.5rem 0;
+  border-radius: 2px;
+}
+
+.highlight-box p {
+  margin-bottom: 0;
+}
+
+/* Social media cards */
+.social-links {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+  margin-top: 1.5rem;
+}
+
+.social-card {
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  transition: opacity 0.2s;
+}
+
+.social-card:hover {
+  opacity: 0.8;
+}
+
+.social-card img {
+  width: 240px;
+  height: 240px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin-bottom: 0.8rem;
+}
+
+.social-card span {
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #2c2c2c;
+}
+
+/* Footer */
+footer {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+  border-top: 1px solid #c8cee0;
+  text-align: center;
+  color: #7a7a8a;
+  font-size: 0.85rem;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  .hero-text h1 {
+    font-size: 1.8rem;
+  }
+
+  .hero-text p {
+    font-size: 1rem;
+  }
+
+  nav {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  h1 {
+    font-size: 1.6rem;
+  }
+}

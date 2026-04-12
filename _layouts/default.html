@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.title | default: site.title }}</title>
+<meta name="description" content="{{ site.description }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Arsenal:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ '/css/style.css' | relative_url }}">
+</head>
+<body>
+<header>
+<nav>
+  <a href="{{ '/' | relative_url }}" class="site-name">Milla Mäkinen</a>
+  <div class="nav-links">
+    <a href="{{ '/' | relative_url }}">Home</a>
+    <a href="{{ '/about/' | relative_url }}">About</a>
+
+    <a href="{{ '/booking/' | relative_url }}">Booking</a>
+    <a href="{{ '/social/' | relative_url }}">Social Media</a>
+    <a href="{{ '/contact/' | relative_url }}">Contact</a>
+    <a href="https://holvi.com/shop/millamakinen/" target="_blank" rel="noopener">Holvi &#x2197;</a>
+  </div>
+</nav>
+</header>
+<main>
+{{ content }}
+</main>
+<footer>
+  <p><a href="https://www.instagram.com/muusikkomillamakinen/">Instagram</a> · <a href="https://www.youtube.com/@millamakinen5841">YouTube</a></p>
+  <p>&copy; {{ site.time | date: '%Y' }} Milla Mäkinen</p>
+</footer>
+</body>
+</html>
