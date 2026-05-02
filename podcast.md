@@ -9,6 +9,7 @@ permalink: /podcast/
 
 ## Motor Preferences in Singing Podcast
 
+<img src="/images/milla.jpg" alt="Milla Mäkinen" class="hero-image" style="max-width: 400px;">
 
 [Spotify](https://open.spotify.com/episode/1977TEE6xhJdxQS69iP8Ue)
 
