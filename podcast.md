@@ -11,8 +11,7 @@ permalink: /podcast/
 
 <img src="/images/milla.jpg" alt="Milla Mäkinen" class="hero-image" style="max-width: 400px;">
 
-[Spotify](https://open.spotify.com/episode/1977TEE6xhJdxQS69iP8Ue)
-
+[Spotify](https://open.spotify.com/show/2Biwux3nyi8GDpAMhoQdJf)
 
 [Youtube](https://www.youtube.com/watch?v=EN6pBPX5j-I)
 
